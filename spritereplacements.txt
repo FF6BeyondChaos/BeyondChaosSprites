@@ -15,6 +15,7 @@ archer-f.bin,Female Archer (FFT),female,true,0,archer-f-p.bin,archerFFT,generic
 archer-m.bin,Male Archer (FFT),male,true,1,archer-m-p.bin,archerFFT,generic
 aria.bin,Aria,female,true,6,aria-p.bin,aria,
 arle.bin,Arle,female,true,0,arle-p.bin,arle,anime
+arthur.bin,Arthur,male,true,2,arthur-p.bin,arthur,
 arvis.bin,Arvis,male,true,7,arvis-p.bin,arvis,
 ashe.bin,Ashe,female,true,0,ashe-p.bin,ashe,
 astronaut.bin,Astronaut,neutral,true,15,astronaut-p.bin,,generic
@@ -153,6 +154,7 @@ fang.bin,Fang,female,true,0,fang-p.bin,fang,
 faris.bin,Faris,neutral,true,6,faris-p.bin,faris|sarisa,
 figaroguard.bin,Figaro Guard,male,true,1,figaroguard-p.bin,,generic
 fire.bin,Fire,neutral,true,15,fire-p.bin,,potato
+firebrand.bin,Firebrand,male,true,15,firebrand-p.bin,firebrand,
 firion.bin,Firion,male,true,1,firion-p.bin,firion,
 fish.bin,Fish,neutral,true,1,fish-p.bin,,pets|generic
 fluteboy.bin,Flute Boy,male,true,11,fluteboy-p.bin,fluteboy,kids
@@ -272,6 +274,7 @@ madara.bin,Madara,male,true,1,madara-p.bin,madara,anime
 maduin.bin,Maduin,male,true,0,maduin-p.bin,maduin,
 magicite.bin,Magicite,neutral,true,18,magicite-p.bin,,potato
 magissa.bin,Magissa,female,true,0,magissa-p.bin,magissa,
+magneto.bin,Magneto,male,true,14,magneto-p.bin,magneto,
 magus.bin,Magus,male,true,9,magus-p.bin,magus,
 maid.bin,Maid,female,true,0,maid-p.bin,maid,generic
 malboro.bin,Malboro,neutral,true,18,malboro-p.bin,malboro,potato
@@ -318,6 +321,7 @@ noctis.bin,Noctis,male,true,1,noctis-p.bin,noctis,
 noire.bin,Noire,female,true,0,noire-p.bin,noire,anime
 nora.bin,Nora,female,true,0,nora-p.bin,nora,
 nun.bin,Nun,female,true,6,nun-p.bin,nun,generic
+oddish.bin,Oddish,neutral,true,15,oddish-p.bin,,pets|potato
 officer-female.bin,Officer (Female),female,true,0,officer-female-p.bin,officer,generic
 oglop-cid.bin,Cid (IX) (Oglop),male,true,14,oglop-p.bin,cid9,pets
 oldman.bin,Old Man,male,true,1,oldman-p.bin,,generic
@@ -335,13 +339,17 @@ paul.bin,Paul,male,true,1,paul-p.bin,paul,
 peach.bin,Princess Peach,female,true,0,peach-p.bin,peach,
 pecil.bin,Paladin Cecil,male,true,1,pecil-p.bin,cecil,
 penelo.bin,Penelo,female,true,6,penelo-p.bin,penelo,
+pepsiman.bin,Pepsiman,male,true,14,pepsiman-p.bin,pepsiman,
 pig.bin,Pig,neutral,true,4,pig-p.bin,,pets|generic
 pikachu-retro.bin,Retro Pikachu,neutral,true,1,pikachu-retro-p.bin,pikachu,pets|anime
+piranhaplant.bin,Piranha Plant,neutral,true,15,piranhaplant-p.bin,piranhaplant,potato
 pm-ghost.bin,Pac-Man Ghost,neutral,true,18,pm-ghost-p.bin,ghost,potato
 pooka.bin,Pooka,neutral,true,15,pooka-p.bin,pooka,potato
+popo.bin,Popo,male,true,12,popo-p.bin,popo,
 porom-tay.bin,Porom (TAY),female,true,0,porom-tay-p.bin,porom,
 porom.bin,Porom,female,true,8,porom-p.bin,twin4|porom,kids
 potato.bin,Potato,neutral,true,1,potato-p.bin,,potato
+predator.bin,Predator,male,true,15,predator-p.bin,predator,
 prisoner.bin,Prisoner,neutral,true,5,prisoner-p.bin,prisoner,generic
 psicom.bin,PSICOM,male,true,3,psicom-p.bin,,generic
 purgedeportee.bin,Purge Deportee,neutral,true,18,purgedeportee-p.bin,,generic
@@ -450,6 +458,8 @@ strago-fusoya.bin,Strago (FuSoYa costume),male,true,7,strago-fusoya-p.bin,strago
 strago-t.bin,Strago (T-Edition ver.),male,true,7,,strago,
 strago-tellah.bin,Strago (Tellah costume),male,true,7,strago-tellah-p.bin,strago|tellah,
 superbuu.bin,Super Buu,male,true,15,superbuu-p.bin,majinbuu,potato|anime
+t260g.bin,T260G,neutral,true,18,t260g-p.bin,t260g,
+tails.bin,Tails,male,true,10,tails-p.bin,tails,potato
 talim.bin,Talim,female,true,0,talim-p.bin,talim,
 teddie.bin,Teddie,male,true,15,teddie-p.bin,teddie,pets|potato
 tellah.bin,Tellah,male,true,7,tellah-p.bin,tellah,
@@ -508,6 +518,8 @@ whitemage.bin,White Mage,neutral,true,18,whitemage-p.bin,whitemage,generic
 wiegraf.bin,Wiegraf,male,true,1,wiegraf-p.bin,wiegraf,
 witchchild.bin,Witch Child,neutral,true,18,witchchild-p.bin,,kids
 wolfdog.bin,Wolf Dog,neutral,true,10,wolfdog-p.bin,pupper,pets
+wolverine.bin,Wolverine,male,true,11,wolverine-p.bin,wolverine,
+xenomorph.bin,Xenomorph,female,true,15,xenomorph-p.bin,xenomorph,potato
 xezhat.bin,Xezhat,male,true,1,xezhat-p.bin,xezhat,
 yang.bin,Yang,male,true,1,yang-p.bin,yang,
 yoshi.bin,Yoshi,neutral,true,15,yoshi-p.bin,yoshi,pets

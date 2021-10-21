@@ -32,9 +32,6 @@ Antimatter625: (new) Hamlet
 Astaroth: Edea-Kramer, Cloud-Darkness, Rosa, Atma, Opera Celes, Aerith, Elena, Rude, Tifa, Yuna, Vaan, Fang, Hope, Lightning, Sazh, Snow, Vanille, Lenneth, Dark Elf, Antlion, Cagnazzo, Omega, Tiamat
     (new) Marilith
 
-A Tiny Spook: (V4) DQ Slime, Ysayle
-    (new) Bleu, Hargon, Katt (w/C-Dude), DQ Sorcerer, Star Breaker, Whackolyte, Biggs (Record Keeper) Portrait, Jevil Portrait, Marilith Portrait, Scientist (Female) Portrait, Witch Child Portrait
-
 Badass: Granny, Ryu, Cat, Chrono, Cyrus, Frog, Robo, Slash, Mr Saturn, Berserker, Gaffgarion, Bowser, Mario, Yoshi, Megaman X, Samus Suit, Samus Zero, Bubble Dragon, Duran, SoE Boy, Sonic, Ness, cat portrait, robo portrait, slash portrait, sonic portrait, Donkey Kong, Donkey Kong Portrait, Falco, Falco Portrait, Astronaut, Bomberman, Excitebiker
 
 brooxly: Flute Boy, Kula, Panda, Zelda
@@ -76,6 +73,8 @@ mickichiba: ryu, dark cecil, tay cecil, adult relm, aeria, sephiroth, pikachu, v
 one reaver: gabranth, garland
 
 Poco Loco: Rosa, Arvis, Baram, chupon, clyde, cultist, dancer, daryl, dion, draco, dragon, fairy, figaro guard, gestahl, lone wolf, maduin, narshe guard, rachel, returner, scholar, siegfried, thief, ultros, vargas, laguna, squall, beatrix, eiko, kuja, vivi, tidus, draco portrait, siegfried portrait, pig
+
+phunbaba: Arthur, Firebrand, Magneto, Oddish, Pepsiman, Piranha Plant, Popo, Predator, T260G, Tails, Wolverine, Xenomorph, Auron portrait
 
 rjenyawd: Tiny moogle
 
@@ -141,7 +140,7 @@ VRNocturne: Lufia portrait
 
 Hoxnorf: Neptune, Nepgear, Freya, Iffy, Rom, Uni, Cirno, Reimu
     (V4) Devout, Elarra, Hotaru, Illya, Iris, Josef, Lenna, Lenna (white mage), Lilith, Malin, Marisa, Nakoruru, Neptune (adult), Noire, Palom, Porom, Refia, Relm (amano), Rimururu, Rumia, Sakuya, Schala, Scott, Shantotto, Talim, Toadette, Tohka, Irvine portrait
-    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo (w/ A Tiny Spook), Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pook, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait
+    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pook, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait
 
 CtrlxZ - Curation, Compilation, Editting, and BC preparation as well as Ramza, Reno, Seifer, Squall, Chupon, Retro Pikachu, Bartz, Kelgar, Edge, Holy Dragoon, Sephiroth, Barret, Zack, Clock, Turtle, Byuu, Sion, Marle, Yang, FF7 Cid, FF4 Cid, Rydia Child, Vaan, StarFox etc
     (V4) Banon (wizard), Dark Knight, Edea, Imperial Soldier (cape), Irvine, Nun, Returner (warrior), Rinoa, Seymour, Tifa (cowgirl), Zombie, Exdeath portrait
@@ -151,7 +150,7 @@ Quikdraw7777: (new) Amazon (female), Blaze, Cammy, Chef, Chun-li, Hashirama, Hid
 
 SpoonyBard: (new) Quina
 
-Super Sayin Rick: (new) Reaper (w/ A Tiny Spook), Scientist (Female) (w/ A Tiny Spook)
+Super Sayin Rick: (new) Reaper, Scientist (Female)
 
 xqwer: (new) Daryl Portrait
 
