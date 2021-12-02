@@ -56,8 +56,8 @@ Funkydiscogod: batman
 
 jameswhite89: johnny, boco, zok, bird, bomb, merchant, black mage, blue mage, grenade, mini, hunter, timemage, tonberry, baby, fish, goku, flea, vader, noctis, noctis portrait berserker portrait, link portrait, bird portrait, bowser portrait, fish portrait, flea portrait, interceptor portrait, returner portrait, squall portrait, ultros portrait, vader portrait, stilzkin portrait, tonberry portrait, pig portrait, golbez portrait, heartless portrait, johnny portrait, bomb portrait, Merchant, cactuar, tingle, eggman
     (V4) Malboro, Raditz, Zombie portrait
-    (new) Axel Stone, Captain Falcon, Cyrax, Death Adder, Frieza, Gilius Thunderhead, Gomez Addams, Guts, JennyBot, Knuckles, Purple Pikmin, Rash, Ridley, Scorpion, Simon, Spawn, Spider-Man, Teddie
-    (new portraits) Akari (w/HoxNorf), Amazon (Female), Arc, Aria, Arvis, Astronaut, Baku, Bandit, Banjo and Kazooie, Barthello, Beaver, Biggs (FF7), Black Mage (Magus), Blanc (/w LoneRedMage and HoxNorf), Boy, Bunny Link, Byuu, Cammy, Chancellor, Chef, Chocobo, Chupon, Cloud, Cloud (Dress), Cucco, Dark Knight, Datto, Desch, Dona, Dragon, Elder, Falco Lambardi, Figaro Guard, Fox McCloud, Frogster (Naked Frog), Gau (Shiny Thing), Genesis, Girl, Goku, Hashirama, Hidan, Hojo, Imperial Soldier (Amano), Imperial Soldier (Female), Imperial Soldier (Female Face), Ingus, Itachi, Jack the Ripper, Jessie (FF7), Kakashi, Kakashi (Slashed), Kakuzu, Kiki [update], Kisame, Konan, Lamp, Lenna, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Lenna (White Mage), Letty, Lone Wolf, Lufia, Luneth, Madara, Maid, Man, Master Sword, Metroid, Michael Myers, Mini, Moogle (FF12), Mr. Saturn, Nabaat, Neclord, Ninja (Female), Noire, Nora, Nun, Officer (Female), Old Man, Onion Knight, Orochimaru, Pac-Man Ghost, Pooka, Prisoner, Purge Deportee, Reaper, Refia, Rufus, Samehada, Sarah (FF1), Sarisa, Sasori, Serah, Shop Keeper, Stalfos, StarWolf, Super Buu, Tifa, Tifa (Cowgirl), Tiny Moogle, Tobi, Tonberry King, Treasure Chest, Tree, Turtle, Vert (w/ LoneRedMage), Vossler, Wedge (FF7), Zetsu
+    (new) Axel Stone, Captain Falcon, Cyrax, Death Adder, Frieza, Gilius Thunderhead, Gomez Addams, Guts, JennyBot, Knuckles, Purple Pikmin, Rash, Ridley, Scorpion, Simon, Spawn, Spider-Man, Teddie, Arthur, Firebrand, Magneto, Oddish, Pepsiman, Piranha Plant, Popo, Predator, T260G, Tails, Wolverine, Xenomorph,
+    (new portraits) Akari (w/HoxNorf), Amazon (Female), Arc, Aria, Arvis, Astronaut, Baku, Bandit, Banjo and Kazooie, Barthello, Beaver, Biggs (FF7), Black Mage (Magus), Blanc (/w LoneRedMage and HoxNorf), Boy, Bunny Link, Byuu, Cammy, Chancellor, Chef, Chocobo, Chupon, Cloud, Cloud (Dress), Cucco, Dark Knight, Datto, Desch, Dona, Dragon, Elder, Falco Lambardi, Figaro Guard, Fox McCloud, Frogster (Naked Frog), Gau (Shiny Thing), Genesis, Girl, Goku, Hashirama, Hidan, Hojo, Imperial Soldier (Amano), Imperial Soldier (Female), Imperial Soldier (Female Face), Ingus, Itachi, Jack the Ripper, Jessie (FF7), Kakashi, Kakashi (Slashed), Kakuzu, Kiki [update], Kisame, Konan, Lamp, Lenna, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Lenna (White Mage), Letty, Lone Wolf, Lufia, Luneth, Madara, Maid, Man, Master Sword, Metroid, Michael Myers, Mini, Moogle (FF12), Mr. Saturn, Nabaat, Neclord, Ninja (Female), Noire, Nora, Nun, Officer (Female), Old Man, Onion Knight, Orochimaru, Pac-Man Ghost, Pooka, Prisoner, Purge Deportee, Reaper, Refia, Rufus, Samehada, Sarah (FF1), Sarisa, Sasori, Serah, Shop Keeper, Stalfos, StarWolf, Super Buu, Tifa, Tifa (Cowgirl), Tiny Moogle, Tobi, Tonberry King, Treasure Chest, Tree, Turtle, Vert (w/ LoneRedMage), Vossler, Wedge (FF7), Zetsu, Auron, Esper Umaro
 
 
 junjinka: zidane
@@ -73,8 +73,6 @@ mickichiba: ryu, dark cecil, tay cecil, adult relm, aeria, sephiroth, pikachu, v
 one reaver: gabranth, garland
 
 Poco Loco: Rosa, Arvis, Baram, chupon, clyde, cultist, dancer, daryl, dion, draco, dragon, fairy, figaro guard, gestahl, lone wolf, maduin, narshe guard, rachel, returner, scholar, siegfried, thief, ultros, vargas, laguna, squall, beatrix, eiko, kuja, vivi, tidus, draco portrait, siegfried portrait, pig
-
-phunbaba: Arthur, Firebrand, Magneto, Oddish, Pepsiman, Piranha Plant, Popo, Predator, T260G, Tails, Wolverine, Xenomorph, Auron portrait
 
 rjenyawd: Tiny moogle
 
@@ -154,9 +152,14 @@ Super Sayin Rick: (new) Reaper, Scientist (Female)
 
 xqwer: (new) Daryl Portrait
 
+SphericalCube: Duran Portrait
+
+LoneRedMage: Jevil Portrait
+
 Curation and compilation by:
     BC EX v1 - v3: CtrlxZ
     BC EX v4:      HoxNorf
+    BC CE v2: DarkSlash88 & Community
 
 
 

@@ -124,6 +124,7 @@ dogstahl.bin,Dogstahl,neutral,true,7,dogstahl-p.bin,gestahl,pets|potato
 dona.bin,Dona,female,true,0,dona-p.bin,dona,
 doncorneo.bin,Don Corneo,male,true,1,doncorneo-p.bin,corneo,
 donkeykong.bin,Donkey Kong,male,true,1,donkeykong-p.bin,kong,pets
+doomguy.bin,Doom Guy,male,true,14,doomguy-p.bin,doomguy,
 door.bin,Door,neutral,true,15,door-p.bin,,potato
 dorgann.bin,Dorgann,male,true,1,dorgann-p.bin,dorgann,
 dqslime.bin,Slime (Dragon Quest),neutral,true,4,dqslime-p.bin,slime,potato
@@ -145,7 +146,7 @@ elder.bin,Elder,male,true,2,elder-p.bin,,
 elena.bin,Elena,female,true,0,elena-p.bin,elena,
 ellone.bin,Ellone,female,true,0,ellone-p.bin,ellone,
 emperor.bin,Emperor,male,true,1,emperor-p.bin,mateus,
-esperumaro.bin,Esper Umaro,male,true,13,,umaro,
+esperumaro.bin,Esper Umaro,male,true,13,esperumaro-p.bin,umaro,
 excitebiker.bin,Excitebiker,neutral,true,15,excitebiker-p.bin,,
 exdeath.bin,Exdeath,neutral,true,12,exdeath-p.bin,exdeath,
 fairy.bin,Fairy,female,true,6,fairy-p.bin,,generic
@@ -249,6 +250,7 @@ laguna-soldier.bin,Laguna (soldier),male,true,1,laguna-p.bin,laguna|soldier8,
 lamp.bin,Lamp,neutral,true,18,lamp-p.bin,lamp,potato|generic
 larsa.bin,Larsa,male,true,1,larsa-p.bin,larsa,kids
 leila.bin,Leila,female,true,0,leila-p.bin,leila,
+lemming.bin,Lemming,neutral,true,15,lemming-p.bin,lemming,potato|pets
 lenna-dancer.bin,Lenna (Dancer),female,true,0,lenna-dancer-p.bin,lenna|dancer,
 lenna-ranger.bin,Lenna (Ranger),female,true,0,lenna-ranger-p.bin,lenna|ranger,
 lenna-time-mage.bin,Lenna (Time Mage),female,true,0,lenna-time-mage-p.bin,lenna|timemage,
