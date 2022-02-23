@@ -138,11 +138,11 @@ VRNocturne: Lufia portrait
 
 Hoxnorf: Neptune, Nepgear, Freya, Iffy, Rom, Uni, Cirno, Reimu
     (V4) Devout, Elarra, Hotaru, Illya, Iris, Josef, Lenna, Lenna (white mage), Lilith, Malin, Marisa, Nakoruru, Neptune (adult), Noire, Palom, Porom, Refia, Relm (amano), Rimururu, Rumia, Sakuya, Schala, Scott, Shantotto, Talim, Toadette, Tohka, Irvine portrait
-    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pooka, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait, Angeal, Bombette, Laguna, Selphie, Sora
+    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pooka, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait, Angeal, Bombette, Laguna, Selphie, Sora, Lenna (Beastmaster), Lenna (Knight), Lenna (Mime), Lovers
 
 CtrlxZ - Curation, Compilation, Editting, and BC preparation as well as Ramza, Reno, Seifer, Squall, Chupon, Retro Pikachu, Bartz, Kelgar, Edge, Holy Dragoon, Sephiroth, Barret, Zack, Clock, Turtle, Byuu, Sion, Marle, Yang, FF7 Cid, FF4 Cid, Rydia Child, Vaan, StarFox etc
     (V4) Banon (wizard), Dark Knight, Edea, Imperial Soldier (cape), Irvine, Nun, Returner (warrior), Rinoa, Seymour, Tifa (cowgirl), Zombie, Exdeath portrait
-    (new) Edge (Child)
+    (new) Edge (Child), Alarm Clock, Bucket, Fighter (FF1), Hooded Man Kain, Master (FF1), Mustadio, Thief (FF1), Tina
 
 Quikdraw7777: (new) Amazon (female), Blaze, Cammy, Chef, Chun-li, Hashirama, Hidan, Imperial Soldier (Female), Imperial Soldier (Female Face), Itachi, Jack the Ripper, Kakashi, Kakashi (Slashed), Kakuzu, Kisame, Konan, Lamp, Madara, Maid, Master Sword, Michael Myers, Neclord, Ninja (Female), Officer (Female), Orochimaru, Prisoner, Ryu (Street Fighter), Samehada, Sasori, Super Buu, Tobi, Tree, Zetsu
 
