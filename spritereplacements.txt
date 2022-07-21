@@ -197,6 +197,7 @@ golbez.bin,Golbez,male,true,4,golbez-p.bin,golbez,
 gomezaddams.bin,Gomez Addams,male,true,2,gomezaddams-p.bin,gomezaddams,
 gordon.bin,Gordon,male,true,1,gordon-p.bin,gordon,
 grandma.bin,Grandma,female,true,7,grandma-p.bin,,generic
+grogu.bin,Grogu,male,true,15,grogu-p.bin,,potato
 guts.bin,Guts,male,true,5,guts-p.bin,guts,anime
 guy.bin,Guy,male,true,1,guy-p.bin,guy2,
 hamlet.bin,Hamlet,neutral,true,15,hamlet-p.bin,pig,pets|potato
@@ -290,6 +291,8 @@ malboro.bin,Malboro,neutral,true,18,malboro-p.bin,malboro,potato
 malin.bin,Malin,female,true,8,malin-p.bin,malin,
 mallow.bin,Mallow,male,true,1,mallow-p.bin,mallow,kids|potato
 man.bin,Man,male,true,1,man-p.bin,,generic
+mandalorian-cape.bin,Mandalorian (Cape),male,true,14,mandalorian-p.bin,mandalorian,
+mandalorian.bin,Mandalorian,male,true,14,mandalorian-p.bin,mandalorian
 marcus.bin,Marcus,male,true,1,marcus-p.bin,marcus,
 maria.bin,Maria,female,true,0,maria-p.bin,maria2,
 marilith.bin,Marilith,neutral,true,6,,marilith,potato
@@ -359,6 +362,7 @@ pooka.bin,Pooka,neutral,true,15,pooka-p.bin,pooka,potato
 popo.bin,Popo,male,true,12,popo-p.bin,popo,
 porom-tay.bin,Porom (TAY),female,true,0,porom-tay-p.bin,porom,
 porom.bin,Porom,female,true,8,porom-p.bin,twin4|porom,kids
+pot.bin,Pot,neutral,true,18,pot-p.bin,,potato
 potato.bin,Potato,neutral,true,1,potato-p.bin,,potato
 predator.bin,Predator,male,true,15,predator-p.bin,predator,
 prisoner.bin,Prisoner,neutral,true,5,prisoner-p.bin,prisoner,generic
