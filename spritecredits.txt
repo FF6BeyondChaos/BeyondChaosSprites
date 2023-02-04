@@ -36,7 +36,7 @@ Badass: Granny, Ryu, Cat, Chrono, Cyrus, Frog, Robo, Slash, Mr Saturn, Berserker
 
 brooxly: Flute Boy, Kula, Panda, Zelda
 
-C-Dude: (new) Esper Umaro, Moogle (PJs), Poodle (Secret of Evermore), Red XIII (on 4s), Tonberry King, Wolf Dog (Secret of Evermore), Edge (Child) Portrait
+C-Dude: (new) Esper Umaro, Moogle (PJs), Poodle (Secret of Evermore), Red XIII (on 4s), Tonberry King, Wolf Dog (Secret of Evermore), Edge (Child) Portrait, Angeal Portrait, Biggs (Record Keeper) Portrait, Marilith Portrait, Shopkeeper Portrait, Wedge (Record Keeper) Portrait
 
 Christian: Tifa
 
@@ -56,8 +56,8 @@ Funkydiscogod: batman
 
 jameswhite89: johnny, boco, zok, bird, bomb, merchant, black mage, blue mage, grenade, mini, hunter, timemage, tonberry, baby, fish, goku, flea, vader, noctis, noctis portrait berserker portrait, link portrait, bird portrait, bowser portrait, fish portrait, flea portrait, interceptor portrait, returner portrait, squall portrait, ultros portrait, vader portrait, stilzkin portrait, tonberry portrait, pig portrait, golbez portrait, heartless portrait, johnny portrait, bomb portrait, Merchant, cactuar, tingle, eggman
     (V4) Malboro, Raditz, Zombie portrait
-    (new) Axel Stone, Captain Falcon, Cyrax, Death Adder, Frieza, Gilius Thunderhead, Gomez Addams, Guts, JennyBot, Knuckles, Purple Pikmin, Rash, Ridley, Scorpion, Simon, Spawn, Spider-Man, Teddie, Arthur, Firebrand, Magneto, Oddish, Pepsiman, Piranha Plant, Popo, Predator, T260G, Tails, Wolverine, Xenomorph, Arcane Mage, Doom Guy, Lemming
-    (new portraits) Akari (w/HoxNorf), Amazon (Female), Arc, Aria, Arvis, Astronaut, Baku, Bandit, Banjo and Kazooie, Barthello, Beaver, Biggs (FF7), Black Mage (Magus), Blanc (/w LoneRedMage and HoxNorf), Boy, Bunny Link, Byuu, Cammy, Chancellor, Chef, Chocobo, Chupon, Cloud, Cloud (Dress), Cucco, Dark Knight, Datto, Desch, Dona, Dragon, Elder, Falco Lambardi, Figaro Guard, Fox McCloud, Frogster (Naked Frog), Gau (Shiny Thing), Genesis, Girl, Goku, Hashirama, Hidan, Hojo, Imperial Soldier (Amano), Imperial Soldier (Female), Imperial Soldier (Female Face), Ingus, Itachi, Jack the Ripper, Jessie (FF7), Kakashi, Kakashi (Slashed), Kakuzu, Kiki [update], Kisame, Konan, Lamp, Lenna, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Lenna (White Mage), Letty, Lone Wolf, Lufia, Luneth, Madara, Maid, Man, Master Sword, Metroid, Michael Myers, Mini, Moogle (FF12), Mr. Saturn, Nabaat, Neclord, Ninja (Female), Noire, Nora, Nun, Officer (Female), Old Man, Onion Knight, Orochimaru, Pac-Man Ghost, Pooka, Prisoner, Purge Deportee, Reaper, Refia, Rufus, Samehada, Sarah (FF1), Sarisa, Sasori, Serah, Shop Keeper, Stalfos, StarWolf, Super Buu, Tifa, Tifa (Cowgirl), Tiny Moogle, Tobi, Tonberry King, Treasure Chest, Tree, Turtle, Vert (w/ LoneRedMage), Vossler, Wedge (FF7), Zetsu, Auron, Esper Umaro
+    (new) Axel Stone, Captain Falcon, Cyrax, Death Adder, Frieza, Gilius Thunderhead, Gomez Addams, Guts, JennyBot, Knuckles, Purple Pikmin, Rash, Ridley, Scorpion, Simon, Spawn, Spider-Man, Teddie, Arthur, Firebrand, Magneto, Oddish, Pepsiman, Piranha Plant, Popo, Predator, T260G, Tails, Wolverine, Xenomorph, Arcane Mage, Doom Guy, Lemming, BB, Doom Imp, Imperfect Cell, Metal Sonic, Phunbaba, Todd
+    (new portraits) Akari (w/HoxNorf), Amazon (Female), Arc, Aria, Arvis, Astronaut, Baku, Bandit, Banjo and Kazooie, Barthello, Beaver, Biggs (FF7), Black Mage (Magus), Blanc (/w LoneRedMage and HoxNorf), Boy, Bunny Link, Byuu, Cammy, Chancellor, Chef, Chocobo, Chupon, Cloud, Cloud (Dress), Cucco, Dark Knight, Datto, Desch, Dona, Dragon, Elder, Falco Lambardi, Figaro Guard, Fox McCloud, Frogster (Naked Frog), Gau (Shiny Thing), Genesis, Girl, Goku, Hashirama, Hidan, Hojo, Imperial Soldier (Amano), Imperial Soldier (Female), Imperial Soldier (Female Face), Ingus, Itachi, Jack the Ripper, Jessie (FF7), Kakashi, Kakashi (Slashed), Kakuzu, Kiki [update], Kisame, Konan, Lamp, Lenna, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Lenna (White Mage), Letty, Lone Wolf, Lufia, Luneth, Madara, Maid, Man, Master Sword, Metroid, Michael Myers, Mini, Moogle (FF12), Mr. Saturn, Nabaat, Neclord, Ninja (Female), Noire, Nora, Nun, Officer (Female), Old Man, Onion Knight, Orochimaru, Pac-Man Ghost, Pooka, Prisoner, Purge Deportee, Reaper, Refia, Rufus, Samehada, Sarah (FF1), Sarisa, Sasori, Serah, Shop Keeper, Stalfos, StarWolf, Super Buu, Tifa, Tifa (Cowgirl), Tiny Moogle, Tobi, Tonberry King, Treasure Chest, Tree, Turtle, Vert (w/ LoneRedMage), Vossler, Wedge (FF7), Zetsu, Auron, Esper Umaro, Eiko
 
 
 junjinka: zidane
@@ -114,7 +114,7 @@ Halkel: Princess Peach, Mallow, Geno, Bowser Jr, Sonic, Bowser Jr Portrait, Peac
 
 Tsushiy: Celes Amano, Celes Beatrix, Clyde Edge, Cyan Auron, Edgar Scholar, Celes Yuna, Cyan Cape, Cyan Judge, Cyan Leo, Cyan New, Cyan Samurai, Cyan Siegfried, Gogo Exdeath, Gogo New, Locke Amano, Locke Armor, Moogle hoodie, Relm ponytail, relm white mage, sabin edgar, sabin seifer, sabin vargas, sabin wakka, strago fusoya, strago new, strago Tellah, locke firion, locke squall, moogle hat, moogle cait sith, relm pigtail, relm yuffie, relm yuna, sabin new, strago cid, strago magus, terra dressy, terra rydia, umaro banon, umaro kimhari
 
-Scarabenigma: Eiko
+Scarabenigma: Eiko, Eiko (Shrine Maiden)
 
 Yoshivoodoo: Agrias, Refia
 
@@ -138,7 +138,7 @@ VRNocturne: Lufia portrait
 
 Hoxnorf: Neptune, Nepgear, Freya, Iffy, Rom, Uni, Cirno, Reimu
     (V4) Devout, Elarra, Hotaru, Illya, Iris, Josef, Lenna, Lenna (white mage), Lilith, Malin, Marisa, Nakoruru, Neptune (adult), Noire, Palom, Porom, Refia, Relm (amano), Rimururu, Rumia, Sakuya, Schala, Scott, Shantotto, Talim, Toadette, Tohka, Irvine portrait
-    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pooka, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait, Angeal, Bombette, Laguna, Selphie, Sora, Lenna (Beastmaster), Lenna (Knight), Lenna (Mime), Lovers
+    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pooka, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait, Angeal, Bombette, Laguna, Selphie, Sora, Lenna (Beastmaster), Lenna (Knight), Lenna (Mime), Lovers, Clara, Flandre Scarlet, Golbez (TAY), Gryz, Lenna (Samurai), Lenna (Thief), Kaguya Houraisan, Mononobe no Futo, Palom (Magus), Patchouli, Porom (Devout), Raja, Reisen, Remilia Scarlet, Rune, Suwako, Waddle Doo
 
 CtrlxZ - Curation, Compilation, Editting, and BC preparation as well as Ramza, Reno, Seifer, Squall, Chupon, Retro Pikachu, Bartz, Kelgar, Edge, Holy Dragoon, Sephiroth, Barret, Zack, Clock, Turtle, Byuu, Sion, Marle, Yang, FF7 Cid, FF4 Cid, Rydia Child, Vaan, StarFox etc
     (V4) Banon (wizard), Dark Knight, Edea, Imperial Soldier (cape), Irvine, Nun, Returner (warrior), Rinoa, Seymour, Tifa (cowgirl), Zombie, Exdeath portrait

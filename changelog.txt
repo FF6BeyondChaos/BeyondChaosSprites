@@ -1,0 +1,94 @@
+* -> Version 4.0:
+- New Sprites (24):
+* BB by JamesWhite89
+* Clara by HoxNorf
+* Doom Imp by JamesWhite89
+* Eiko (Shrine Maiden) by ScarabEnigma
+* Flandre Scarlet by HoxNorf
+* Golbez (TAY) by HoxNorf
+* Gryz by HoxNorf
+* Imperfect Cell by JamesWhite89
+* Lenna (Samurai) by HoxNorf
+* Lenna (Thief) by HoxNorf
+* Kaguya Houraisan by HoxNorf
+* Metal Sonic by JamesWhite89
+* Mononobe No Futo by HoxNorf
+* Palom (Magus) by HoxNorf
+* Patchouli by HoxNorf
+* Phunbaba by JamesWhite89
+* Porom (Devout) by HoxNorf
+* Raja by HoxNorf
+* Reisen by HoxNorf
+* Remilia Scarlet by HoxNorf
+* Rune by HoxNorf
+* Suwako by HoxNorf
+* Todd by JamesWhite89
+* Waddle Doo by HoxNorf
+
+- Updated/Changed Sprites (2):
+* Reimu by HoxNorf
+* Rom by HoxNorf
+
+- New Portraits (25):
+* Angeal by CDude
+* BB by JamesWhite89
+* Biggs (Record Keeper) by CDude
+* Clara by HoxNorf
+* Doom Imp by JamesWhite89
+* Flandre Scarlet by HoxNorf
+* Golbez (TAY) by HoxNorf
+* Gryz by HoxNorf
+* Imperfect Cell by JamesWhite89
+* Kaguya Houraisan by HoxNorf
+* Marilith by CDude
+* Metal Sonic by JamesWhite89
+* Mononobe No Futo by HoxNorf
+* Palom (Magus) by HoxNorf
+* Patchouli by HoxNorf
+* Phunbaba by JamesWhite89
+* Porom (Devout) by HoxNorf
+* Raja by HoxNorf
+* Reisen by HoxNorf
+* Remilia Scarlet by HoxNorf
+* Rune by HoxNorf
+* Suwako by HoxNorf
+* Todd by JamesWhite89
+* Waddle Doo by HoxNorf
+* Wedge (Record Keeper) by CDude
+
+- Updated/Changed Portraits (3):
+* Eiko by JamesWhite89
+* Rom by HoxNorf
+* Shopkeeper by CDude
+
+- New Lines (24):
+bb.bin,BB,male,true,1,bb-p.bin,bb,
+cell-imperfect.bin,Imperfect Cell,male,true,15,cell-imperfect-p.bin,cell,anime
+clara.bin,Clara,female,true,8,clara-p.bin,clara,
+doomimp.bin,Doom Imp,neutral,true,15,doomimp-p.bin,doomimp,potato
+eikomiko.bin,Eiko (Shrine Maiden),female,true,0,eiko-p.bin,eiko,kids
+flandre.bin,Flandre Scarlet,female,true,8,flandre-p.bin,scarlet,anime
+futo.bin,Mononobe No Futo,female,true,8,futo-p.bin,futo,anime
+golbez-tay.bin,Golbez (TAY),male,true,11,golbez-tay-p.bin,golbez,
+gryz.bin,Gryz,male,true,15,gryz-p.bin,gryz|motavian,
+kaguya.bin,Kaguya Houraisan,female,true,6,kaguya-p.bin,kaguya,anime
+lenna-samurai.bin,Lenna (Samurai),female,true,0,lenna-p.bin,lenna|samurai,
+lenna-thief.bin,Lenna (Thief),female,true,0,lenna-p.bin,lenna|thief,
+metalsonic.bin,Metal Sonic,neutral,true,14,metalsonic-p.bin,metalsonic,potato
+palom-magus.bin,Palom (Magus),male,true,11,palom-magus-p.bin,palom,kids
+patchouli.bin,Patchouli,female,true,6,patchouli-p.bin,patchouli,anime
+phunbaba.bin,Phunbaba,neutral,true,15,phunbaba-p.bin,phunbaba,potato
+porom-devout.bin,Porom (Devout),female,true,8,porom-devout-p.bin,porom|devout,kids
+raja.bin,Raja,male,true,15,raja-p.bin,raja|dezorian,
+reisen.bin,Reisen,female,true,6,reisen-p.bin,reisen,anime
+remilia.bin,Remilia Scarlet,female,true,8,remilia-p.bin,scarlet,anime
+rune.bin,Rune,male,true,4,rune-p.bin,rune|lutz,
+suwako.bin,Suwako,female,true,8,suwako-p.bin,suwako,anime
+todd.bin,Todd,male,true,5,todd-p.bin,todd,
+waddledoo.bin,Waddle Doo,neutral,true,15,waddledoo-p.bin,waddledee,potato
+
+- Updated/Changed Lines (4):
+angeal.bin,Angeal,male,true,9,angeal-p.bin,angeal,
+biggsrk.bin,Biggs (Record Keeper),male,true,5,biggsrk-p.bin,biggsrk,
+marilith.bin,Marilith,neutral,true,6,marilith-p.bin,marilith,potato
+wedgerk.bin,Wedge (Record Keeper),male,true,18,wedgerk-p.bin,wedgerk,kids
