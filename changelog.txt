@@ -1,4 +1,114 @@
-* -> Version 4.0:
+* -> Version 3.3:
+- New Sprites (15):
+* Alice Margatroid by HoxNorf
+* Amy Rose by HoxNorf
+* Blaze the Cat by HoxNorf
+* Cait Sith (VII) by HoxNorf
+* Dr. Lugae by Astaroth
+* Koishi Komeiji by HoxNorf
+* Lenna (Bard) by HoxNorf
+* Lenna (Summoner) by HoxNorf
+* Nepgear (Purple Sister) by HoxNorf
+* Nitori Kawashiro by HoxNorf
+* Satori Komeiji by HoxNorf
+* Toadette (Explorer) by HoxNorf
+* Tohka (Spirit Form) by HoxNorf
+* Wren by HoxNorf
+* Yuyuko Saigyouji by HoxNorf
+
+- New Portraits (13):
+* Alice Margatroid by HoxNorf
+* Amy Rose by HoxNorf
+* Blaze the Cat by HoxNorf
+* Cait Sith (VII) by HoxNorf
+* Dr. Lugae by HoxNorf
+* Koishi Komeiji bu HoxNorf
+* Nepgear (Purple Sister) by HoxNorf
+* Nitori Kawashiro by HoxNorf
+* Satori Komeiji bu HoxNorf
+* Toadette (Explorer) by HoxNorf
+* Tohka (Spirit Form) by HoxNorf
+* Wren by HoxNorf
+* Yuyuko Saigyouji by HoxNorf
+
+- Updated/Changed Portraits (1):
+* Reimu Hakurei by HoxNorf
+
+- New Lines (15):
+alice.bin,Alice Margatroid,female,true,6,alice-p.bin,alice,anime
+amy.bin,Amy Rose,female,true,8,amy-p.bin,amyrose,animals
+blaze-cat.bin,Blaze the Cat,female,true,0,blaze-cat-p.bin,blazecat,animals
+caitsith7.bin,Cait Sith (VII),neutral,true,10,caitsith7-p.bin,reeve|moogle,animals|object
+koishi.bin,Koishi Komeiji,female,true,8,koishi-p.bin,koishi|komeiji,anime
+lenna-bard.bin,Lenna (Bard),female,true,0,lenna-p.bin,lenna|bard,
+lenna-summoner.bin,Lenna (Summoner),female,true,0,lenna-p.bin,lenna|summoner,
+lugae.bin,Dr. Lugae,male,true,7,lugae-p.bin,lugae,
+nitori.bin,Nitori Kawashiro,female,true,8,nitori-p.bin,nitori,anime
+purplesister.bin,Nepgear (Purple Sister),female,true,6,purplesister-p.bin,nepgear,anime
+satori.bin,Satori Komeiji,female,true,0,satori-p.bin,satori|komeiji,anime
+toadette-explorer.bin,Toadette (Explorer),female,true,15,toadette-explorer-p.bin,toadette,
+tohka-spirit.bin,Tohka (Spirit Form),female,true,6,tohka-spirit-p.bin,tohka,anime
+wren.bin,Wren,male,true,14,wren-p.bin,wren,
+yuyuko.bin,Yuyuko Saigyouji,female,true,6,yuyuko-p.bin,yuyuko,anime
+
+- Updated/Changed Lines (55):
+antlion.bin,Antlion,neutral,true,18,antlion-p.bin,,animals
+atma.bin,Atma,neutral,true,17,atma-p.bin,atma,animals
+baby.bin,Baby,neutral,true,8,baby-p.bin,baby,kids|generic
+bomberman.bin,Bomberman,neutral,true,15,bomberman-p.bin,,
+cagnazzo.bin,Cagnazzo,male,true,18,cagnazzo-p.bin,cagnazzo,animals
+chupon.bin,Chupon,neutral,true,15,chupon-p.bin,chupon,animals
+dogstahl.bin,Dogstahl,neutral,true,7,dogstahl-p.bin,gestahl,animals
+doomimp.bin,Doom Imp,neutral,true,15,doomimp-p.bin,doomimp,animals
+eggman.bin,Dr. Eggman,male,true,17,eggman-p.bin,eggman,
+falco.bin,Falco,male,true,1,falco-p.bin,falco,animals
+freya.bin,Freya,female,true,6,freya-p.bin,freya,animals
+frog.bin,Frog (Glenn),male,true,14,frog-p.bin,frog|glenn,animals
+geno.bin,Geno,male,true,1,geno-p.bin,geno,object
+grogu.bin,Grogu,male,true,15,grogu-p.bin,,animals
+gryz.bin,Gryz,male,true,15,gryz-p.bin,gryz|motavian,animals
+hamlet.bin,Hamlet,neutral,true,15,hamlet-p.bin,pig,animals
+jevil.bin,Jevil,male,true,15,jevil-p.bin,jevil,
+kelgar.bin,Kelgar,male,true,1,kelgar-p.bin,kelgar|werewolf,animals
+kirby.bin,Kirby,neutral,true,1,kirby-p.bin,kirby,
+knuckles.bin,Knuckles,male,true,15,knuckles-p.bin,knuckles,animals
+lemming.bin,Lemming,neutral,true,15,lemming-p.bin,lemming,animals
+lonewolf.bin,Lone Wolf,male,true,1,lonewolf-p.bin,werewolf,animals
+metroid.bin,Metroid,neutral,true,18,metroid-p.bin,metroid,animals
+mini.bin,Mini,neutral,true,11,mini-p.bin,mini,generic
+moogle-12.bin,Moogle (XII),neutral,true,10,moogle-12-p.bin,moogle,animals
+moogle-geohat.bin,Mog (Geomancer costume),neutral,true,10,moogle-geohat-p.bin,moogle,animals
+moogle-pj.bin,Moogle (PJs),neutral,true,10,moogle-pj-p.bin,moogle,kids
+moogle-tonberry.bin,Mog (Tonberry costume),neutral,true,10,,moogle|tonberry,animals
+nepgear.bin,Nepgear,female,true,0,nepgear-p.bin,nepgear,anime
+oddish.bin,Oddish,neutral,true,15,oddish-p.bin,,animals
+panda.bin,Panda,neutral,true,13,panda-p.bin,panda,animals
+papyrus.bin,Papyrus,male,true,18,papyrus-p.bin,,
+phunbaba.bin,Phunbaba,neutral,true,15,phunbaba-p.bin,phunbaba,animals
+pooka.bin,Pooka,neutral,true,15,pooka-p.bin,pooka,animals|object
+purplepikmin.bin,Purple Pikmin,neutral,true,15,purplepikmin-p.bin,pikmin,animals
+rash.bin,Rash,male,true,15,rash-p.bin,rash,animals
+redmage.bin,Red Mage,neutral,true,9,redmage-p.bin,redmage,generic
+ridley.bin,Ridley,neutral,true,13,ridley-p.bin,ridley,animals
+robo.bin,Robo,male,true,1,robo-p.bin,robo,object
+sans.bin,Sans,male,true,18,sans-p.bin,sans,
+sonic.bin,Sonic,male,true,10,sonic-p.bin,sonic,animals
+starfox.bin,Fox McCloud,male,true,10,starfox-p.bin,starfox,animals
+starwolf.bin,Wolf O Donnell,male,true,1,starwolf-p.bin,starwolf|werewolf,animals
+stiltzkin.bin,Stiltzkin,neutral,true,10,stiltzkin-p.bin,moogle,animals
+superbuu.bin,Super Buu,male,true,15,superbuu-p.bin,majinbuu,anime
+tails.bin,Tails,male,true,10,tails-p.bin,tails,animals
+teddie.bin,Teddie,male,true,15,teddie-p.bin,teddie,animals
+tiamat.bin,Tiamat,neutral,true,18,tiamat-p.bin,tiamat,animals
+tinymoogle.bin,Tiny Moogle,neutral,true,10,tinymoogle-p.bin,moogle,animals
+tonberryking.bin,Tonberry King,neutral,true,15,tonberryking-p.bin,tonberry,animals
+tonberry.bin,Tonberry,neutral,true,14,tonberry-p.bin,tonberry,animals
+toriel.bin,Toriel,female,true,15,toriel-p.bin,toriel,animals
+waddledoo.bin,Waddle Doo,neutral,true,15,waddledoo-p.bin,waddledee,
+xenomorph.bin,Xenomorph,female,true,15,xenomorph-p.bin,xenomorph,animals
+zombie.bin,Zombie,neutral,true,15,zombie-p.bin,zombie,generic
+
+* -> Version 3.2:
 - New Sprites (24):
 * BB by JamesWhite89
 * Clara by HoxNorf
