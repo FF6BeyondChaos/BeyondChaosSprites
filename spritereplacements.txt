@@ -60,6 +60,7 @@ blanc.bin,Blanc,female,true,0,blanc-p.bin,blanc,anime
 blank.bin,Blank,male,true,11,blank-p.bin,blank,
 blaze.bin,Blaze Fielding,female,true,6,blaze-p.bin,blaze,
 blaze-cat.bin,Blaze the Cat,female,true,0,blaze-cat-p.bin,blazecat,animals
+bleu.bin,Bleu,female,true,6,bleu-p.bin,bleu,
 bomb.bin,Bomb,neutral,true,1,bomb-p.bin,,object
 bomberman.bin,Bomberman,neutral,true,15,bomberman-p.bin,,
 bombette.bin,Bombette,female,true,18,bombette-p.bin,bombette|bobomb,object
@@ -139,6 +140,7 @@ doomimp.bin,Doom Imp,neutral,true,15,doomimp-p.bin,doomimp,animals
 doomguy.bin,Doom Guy,male,true,14,doomguy-p.bin,doomguy,
 door.bin,Door,neutral,true,15,door-p.bin,,object
 dorgann.bin,Dorgann,male,true,1,dorgann-p.bin,dorgann,
+dqslime.bin,Slime (Dragon Quest),neutral,true,15,dqslime-p.bin,slime,animals
 draco.bin,Draco,male,true,2,draco-p.bin,draco,
 dragon.bin,Dragon,neutral,true,1,dragon-p.bin,,animals|generic
 drmog.bin,Dr. Mog,male,true,10,drmog-p.bin,moogle,
@@ -214,6 +216,7 @@ gryz.bin,Gryz,male,true,15,gryz-p.bin,gryz|motavian,animals
 guts.bin,Guts,male,true,5,guts-p.bin,guts,anime
 guy.bin,Guy,male,true,1,guy-p.bin,guy2,
 hamlet.bin,Hamlet,neutral,true,15,hamlet-p.bin,pig,animals
+hargon.bin,Hargon,male,true,18,hargon-p.bin,,
 hashirama.bin,Hashirama,male,true,1,hashirama-p.bin,hashirama,anime
 headdy.bin,(Dynamite) Headdy,male,true,12,headdy-p.bin,headdy,object
 hidan.bin,Hidan,male,true,5,hidan-p.bin,hidan,anime
@@ -250,6 +253,7 @@ kakashi.bin,Kakashi,male,true,3,kakashi-p.bin,kakashi,anime
 kakashi-slash.bin,Kakashi (Slashed),male,true,3,kakashi-slash-p.bin,kakashi,anime
 kakuzu.bin,Kazuku,male,true,3,kakuzu-p.bin,kakuzu,anime
 katarin.bin,Katarin,female,true,0,katarin-p.bin,katarin,
+katt.bin,Katt,female,true,6,katt-p.bin,katt,
 kelgar.bin,Kelgar,male,true,1,kelgar-p.bin,kelgar|werewolf,animals
 kiki.bin,Kiki,neutral,true,1,kiki-p.bin,kiki,animals
 kimahri.bin,Kimahri,male,true,1,kimahri-p.bin,kimahri,
@@ -498,6 +502,7 @@ squire.bin,Squire (FFT),male,true,15,squire-p.bin,squire,
 stalfos.bin,Stalfos,neutral,true,1,stalfos-p.bin,,object
 starfox.bin,Fox McCloud,male,true,10,starfox-p.bin,starfox,animals
 starwolf.bin,Wolf O Donnell,male,true,1,starwolf-p.bin,starwolf|werewolf,animals
+star-breaker.bin,Star Breaker,female,true,6,star-breaker-p.bin,,
 steiner.bin,Steiner,male,true,2,steiner-p.bin,steiner,
 stiltzkin.bin,Stiltzkin,neutral,true,10,stiltzkin-p.bin,moogle,animals
 strago-blackmage.bin,Strago (Black Mage costume),male,true,7,strago-blackmage-p.bin,strago|blackmage,
@@ -568,6 +573,7 @@ ward-soldier.bin,Ward (soldier),male,true,5,ward-p.bin,ward|soldier8,
 warrioroflight.bin,Warrior of Light,male,true,16,warrioroflight-p.bin,lightwarrior,
 wedge7.bin,Wedge (VII),male,true,1,wedge7-p.bin,wedge7,
 wedgerk.bin,Wedge (Record Keeper),male,true,18,wedgerk-p.bin,wedgerk,kids
+whackolyte.bin,Whackolyte,female,true,18,whackolyte-p.bin,DQ2Mage,
 whitemage-f.bin,Female White Mage,female,true,0,whitemage-f-p.bin,whitemage,generic
 whitemage.bin,White Mage,neutral,true,18,whitemage-p.bin,whitemage,generic
 wiegraf.bin,Wiegraf,male,true,1,wiegraf-p.bin,wiegraf,
@@ -578,6 +584,7 @@ xenomorph.bin,Xenomorph,female,true,15,xenomorph-p.bin,xenomorph,animals
 xezhat.bin,Xezhat,male,true,1,xezhat-p.bin,xezhat,
 yang.bin,Yang,male,true,1,yang-p.bin,yang,
 yoshi.bin,Yoshi,neutral,true,15,yoshi-p.bin,yoshi,animals
+ysayle.bin,Ysayle,female,true,6,ysayle-p.bin,ysayle,
 yuffie.bin,Yuffie,female,true,8,yuffie-p.bin,yuffie,
 yuna.bin,Yuna,female,true,1,yuna-p.bin,yuna,
 yura.bin,Yura,male,true,5,yura-p.bin,yura,

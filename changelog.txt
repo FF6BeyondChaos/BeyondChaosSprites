@@ -1,3 +1,25 @@
+* -> Version 3.4:
+- New Sprites (8):
+* Bleu by RiftDragonHaze
+* DQ Slime by RiftDragonHaze
+* DQ Sorcerer by RiftDragonHaze
+* Hargon by RiftDragonHaze
+* Katt by RiftDragonHaze
+* Star-Breaker by RiftDragonHaze
+* Whackolyte by RiftDragonHaze
+* Ysayle by RiftDragonHaze
+
+-New Lines (8):
+
+bleu.bin,Bleu,female,true,6,bleu-p.bin,bleu,
+dqslime.bin,Slime (Dragon Quest),neutral,true,15,dqslime-p.bin,slime,animals
+dqsorcerer.bin,Sorcerer (Dragon Quest),male,true,18,dqsorcerer-p.bin,DQ2Mage,
+hargon.bin,Hargon,male,true,18,hargon-p.bin,,
+katt.bin,Katt,female,true,6,katt-p.bin,katt,
+star-breaker.bin,Star Breaker,female,true,6,star-breaker-p.bin,,
+whackolyte.bin,Whackolyte,female,true,18,whackolyte-p.bin,DQ2Mage,
+ysayle.bin,Ysayle,female,true,6,ysayle-p.bin,ysayle,
+
 * -> Version 3.3:
 - New Sprites (15):
 * Alice Margatroid by HoxNorf
