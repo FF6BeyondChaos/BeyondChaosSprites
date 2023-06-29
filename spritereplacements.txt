@@ -141,6 +141,7 @@ doomguy.bin,Doom Guy,male,true,14,doomguy-p.bin,doomguy,
 door.bin,Door,neutral,true,15,door-p.bin,,object
 dorgann.bin,Dorgann,male,true,1,dorgann-p.bin,dorgann,
 dqslime.bin,Slime (Dragon Quest),neutral,true,15,dqslime-p.bin,slime,animals
+dqsorcerer.bin,Sorcerer (Dragon Quest),male,true,18,dqsorcerer-p.bin,DQ2Mage,
 draco.bin,Draco,male,true,2,draco-p.bin,draco,
 dragon.bin,Dragon,neutral,true,1,dragon-p.bin,,animals|generic
 drmog.bin,Dr. Mog,male,true,10,drmog-p.bin,moogle,
