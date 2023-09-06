@@ -1,3 +1,73 @@
+* -> Version 3.5:
+- New Sprites (16):
+* Baraka by JamesWhite89
+* Defect by JamesWhite89
+* Eirin Yagokoro by HoxNorf
+* Homelander by JamesWhite89
+* Ironclad by JamesWhite89
+* Jackson Briggs by JamesWhite89
+* Lenna (Chemist) by HoxNorf
+* Riku by HoxNorf
+* Shang Tsung by JamesWhite89
+* Silent by JamesWhite89
+* Sindel by JamesWhite89
+* Sub Zero by JamesWhite89
+* Suika Ibuki by HoxNorf
+* Terra (Sorceress) by LunarDragon
+* Watcher by JamesWhite89
+* Yamame Kurodani by HoxNorf
+
+- New Portrait (22):
+* Baraka by JamesWhite89
+* Defect by JamesWhite89
+* Eirin Yagokoro by HoxNorf
+* Homelander by JamesWhite89
+* Ironclad by JamesWhite89
+* Jackson Briggs by JamesWhite89
+* Lenna (Bard) by JamesWhite89
+* Lenna (Beastmaster) by JamesWhite89
+* Lenna (Chemist) by JamesWhite89
+* Lenna (Knight) by JamesWhite89
+* Lenna (Mime) by JamesWhite89
+* Lenna (Samurai) by JamesWhite89
+* Lenna (Summoner) by JamesWhite89
+* Lenna (Thief) by JamesWhite89
+* Riku by HoxNorf
+* Shang Tsung by JamesWhite89
+* Silent by JamesWhite89
+* Sindel by JamesWhite89
+* Sub Zero by JamesWhite89
+* Suika Ibuki by HoxNorf
+* Watcher by JamesWhite89
+* Yamame Kurodani by HoxNorf
+
+- New Lines (16):
+baraka.bin,Baraka,male,true,5,baraka-p.bin,baraka,
+defect.bin,Defect,neutral,true,14,defect-p.bin,defect,object
+eirin.bin,Eirin Yagokoro,female,true,6,eirin-p.bin,eirin,anime
+homelander.bin,Homelander,male,true,5,homelander-p.bin,homelander,
+ironclad.bin,Ironclad,male,true,14,defect-p.bin,ironclad,
+jax.bin,Jackson Briggs,male,true,5,jax-p.bin,jax,
+lenna-chemist.bin,Lenna (Chemist),female,true,0,lenna-chemist-p.bin,lenna|chemist,
+riku.bin,Riku,male,true,1,riku-p.bin,riku,
+shangtsung.bin,Shang Tsung,male,true,7,shangtsung-p.bin,shangtsung,
+silent.bin,Silent,female,true,14,silent-p.bin,silent,
+sindel.bin,Sindel,female,true,6,sindel-p.bin,sindel,
+subzero.bin,Sub Zero,male,true,3,subzero-p.bin,subzero,
+suika.bin,Suika Ibuki,female,true,8,suika-p.bin,suika,anime
+terra-sorceress.bin,Terra (Sorceress),female,true,0,,terra,
+watcher.bin,Watcher,female,true,14,watcher-p.bin,watcher,
+yamame.bin,Yamame Kurodani,female,true,8,yamame-p.bin,yamame,anime
+
+- Updated/Changed Lines (7):
+lenna-bard.bin,Lenna (Bard),female,true,0,lenna-bard-p.bin,lenna|bard,
+lenna-beastmaster.bin,Lenna (Beastmaster),female,true,0,lenna-beastmaster-p.bin,lenna|beastmaster,
+lenna-knight.bin,Lenna (Knight),female,true,0,lenna-knight-p.bin,lenna|knight,
+lenna-mime.bin,Lenna (Mime),female,true,0,lenna-mime-p.bin,lenna|mime,
+lenna-samurai.bin,Lenna (Samurai),female,true,0,lenna-samurai-p.bin,lenna|samurai,
+lenna-summoner.bin,Lenna (Summoner),female,true,0,lenna-summoner-p.bin,lenna|summoner,
+lenna-thief.bin,Lenna (Thief),female,true,0,lenna-thief-p.bin,lenna|thief,
+
 * -> Version 3.4:
 - New Sprites (8):
 * Bleu by RiftDragonHaze
@@ -9,8 +79,7 @@
 * Whackolyte by RiftDragonHaze
 * Ysayle by RiftDragonHaze
 
--New Lines (8):
-
+- New Lines (8):
 bleu.bin,Bleu,female,true,6,bleu-p.bin,bleu,
 dqslime.bin,Slime (Dragon Quest),neutral,true,15,dqslime-p.bin,slime,animals
 dqsorcerer.bin,Sorcerer (Dragon Quest),male,true,18,dqsorcerer-p.bin,DQ2Mage,
