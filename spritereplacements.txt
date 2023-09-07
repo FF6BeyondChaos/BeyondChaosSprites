@@ -37,6 +37,7 @@ bangaa-rinok.bin,Rinok,female,true,1,bangaa-p.bin,bangaa,
 bangaa.bin,Bangaa,male,true,1,bangaa-p.bin,bangaa,
 banjokazooie.bin,Banjo and Kazooie,male,true,5,banjokazooie-p.bin,banjo|kazooie,animals
 banon-wizard.bin,Banon (Wizard),male,true,17,,banon,
+baraka.bin,Baraka,male,true,5,baraka-p.bin,baraka,
 barbariccia.bin,Barbariccia,female,true,6,barbariccia-p.bin,barbariccia,
 barret.bin,Barret,male,true,2,barret-p.bin,barret,
 barthello.bin,Barthello,male,true,5,barthello-p.bin,barthello,
@@ -156,6 +157,7 @@ edward.bin,Edward,male,true,4,edward-p.bin,edward|bard,
 eggman.bin,Dr. Eggman,male,true,17,eggman-p.bin,eggman,
 eiko.bin,Eiko,female,true,0,eiko-p.bin,eiko,kids
 eikomiko.bin,Eiko (Shrine Maiden),female,true,0,eiko-p.bin,eiko,kids
+eirin.bin,Eirin Yagokoro,female,true,6,eirin-p.bin,eirin,anime
 elarra.bin,Elarra,female,true,8,elarra-p.bin,elarra,kids
 elder.bin,Elder,male,true,2,elder-p.bin,,
 elena.bin,Elena,female,true,0,elena-p.bin,elena,
@@ -225,6 +227,7 @@ hidan.bin,Hidan,male,true,5,hidan-p.bin,hidan,anime
 hilda.bin,Hilda,female,true,0,hilda-p.bin,hilda,
 hojo.bin,Hojo,male,true,1,hojo-p.bin,hojo,
 holydragoon.bin,Holy Dragoon,male,true,5,holydragoon-p.bin,kain,
+homelander.bin,Homelander,male,true,5,homelander-p.bin,homelander,
 hoodedman.bin,Hooded Man Kain,male,true,1,hoodedman-p.bin,kain,
 hope.bin,Hope,male,true,1,hope-p.bin,hope,
 hornytoad.bin,Horny Toad,neutral,true,14,froggy-p.bin,frog,animals
@@ -242,6 +245,7 @@ iris.bin,Iris,female,true,0,iris-p.bin,iris,
 irvine.bin,Irvine,male,true,1,irvine-p.bin,irvine,
 ironclad.bin,Ironclad,male,true,14,defect-p.bin,ironclad,
 itachi.bin,Itachi,male,true,1,itachi-p.bin,itachi,anime
+jax.bin,Jackson Briggs,male,true,5,jax-p.bin,jax,
 jecht.bin,Jecht,male,true,17,jecht-p.bin,jecht,
 jennybot.bin,JennyBot,female,true,14,jennybot-p.bin,jennybot,
 jessie7.bin,Jessie (VII),female,true,0,jessie7-p.bin,jessie,
@@ -277,15 +281,16 @@ lamp.bin,Lamp,neutral,true,18,lamp-p.bin,lamp,object|generic
 larsa.bin,Larsa,male,true,1,larsa-p.bin,larsa,kids
 leila.bin,Leila,female,true,0,leila-p.bin,leila,
 lemming.bin,Lemming,neutral,true,15,lemming-p.bin,lemming,animals
-lenna-bard.bin,Lenna (Bard),female,true,0,lenna-p.bin,lenna|bard,
-lenna-beastmaster.bin,Lenna (Beastmaster),female,true,0,lenna-p.bin,lenna|beastmaster,
+lenna-bard.bin,Lenna (Bard),female,true,0,lenna-bard-p.bin,lenna|bard,
+lenna-beastmaster.bin,Lenna (Beastmaster),female,true,0,lenna-beastmaster-p.bin,lenna|beastmaster,
+lenna-chemist.bin,Lenna (Chemist),female,true,0,lenna-chemist-p.bin,lenna|chemist,
 lenna-dancer.bin,Lenna (Dancer),female,true,0,lenna-dancer-p.bin,lenna|dancer,
-lenna-knight.bin,Lenna (Knight),female,true,0,lenna-p.bin,lenna|knight,
-lenna-mime.bin,Lenna (Mime),female,true,0,lenna-p.bin,lenna|mime,
+lenna-knight.bin,Lenna (Knight),female,true,0,lenna-knight-p.bin,lenna|knight,
+lenna-mime.bin,Lenna (Mime),female,true,0,lenna-mime-p.bin,lenna|mime,
 lenna-ranger.bin,Lenna (Ranger),female,true,0,lenna-ranger-p.bin,lenna|ranger,
-lenna-samurai.bin,Lenna (Samurai),female,true,0,lenna-p.bin,lenna|samurai,
-lenna-summoner.bin,Lenna (Summoner),female,true,0,lenna-p.bin,lenna|summoner,
-lenna-thief.bin,Lenna (Thief),female,true,0,lenna-p.bin,lenna|thief,
+lenna-samurai.bin,Lenna (Samurai),female,true,0,lenna-samurai-p.bin,lenna|samurai,
+lenna-summoner.bin,Lenna (Summoner),female,true,0,lenna-summoner-p.bin,lenna|summoner,
+lenna-thief.bin,Lenna (Thief),female,true,0,lenna-thief-p.bin,lenna|thief,
 lenna-time-mage.bin,Lenna (Time Mage),female,true,0,lenna-time-mage-p.bin,lenna|timemage,
 lenna-white-mage.bin,Lenna (White Mage),female,true,0,lenna-white-mage-p.bin,lenna|whitemage,
 lenna.bin,Lenna,female,true,0,lenna-p.bin,lenna,
@@ -436,6 +441,7 @@ ricard.bin,Ricard,male,true,1,ricard-p.bin,ricard|dragoon,
 ridley.bin,Ridley,neutral,true,13,ridley-p.bin,ridley,animals
 rikku-divesuit.bin,Rikku Divesuit,female,true,0,rikku-p.bin,rikku,
 rikku.bin,Rikku,female,true,0,rikku-p.bin,rikku,
+riku.bin,Riku,male,true,1,riku-p.bin,riku,
 rimururu.bin,Rimururu,female,true,0,rimururu-p.bin,rimururu,kids|anime
 rinoa-dress.bin,Rinoa (dressy),female,true,0,rinoa-p.bin,rinoa,
 rinoa.bin,Rinoa,female,true,0,rinoa-p.bin,rinoa,
@@ -483,6 +489,7 @@ serafie.bin,Serafie,female,true,8,serafie-p.bin,serafie,
 serah.bin,Serah,female,true,0,serah-p.bin,serah,
 seymour.bin,Seymour,male,true,9,seymour-p.bin,seymour,
 shadowsmith.bin,Shadow Smith,male,true,9,shadowsmith-p.bin,,
+shangtsung.bin,Shang Tsung,male,true,7,shangtsung-p.bin,shangtsung,
 shantotto.bin,Shantotto,female,true,8,shantotto-p.bin,shantotto,
 shaokahn.bin,Shao Khan,male,true,9,shaokhan-p.bin,shaokhan,
 sherlotta.bin,Sherlotta,female,true,0,sherlotta-p.bin,sherlotta,
@@ -490,6 +497,7 @@ shopkeeper.bin,Shopkeeper,male,true,1,shopkeeper-p.bin,,generic
 siegfried.bin,Siegfried,male,true,1,siegfried-p.bin,siegfried,
 silent.bin,Silent,female,true,14,silent-p.bin,silent,
 simon.bin,Simon Belmont,male,true,1,simon-p.bin,belmont,
+sindel.bin,Sindel,female,true,6,sindel-p.bin,sindel,
 sion.bin,Sion,male,true,1,sion-p.bin,sion,
 slash.bin,Slash,male,true,2,slash-p.bin,slashCT,
 slime.bin,Slime,neutral,true,4,slime-p.bin,slime,object|generic
@@ -516,6 +524,8 @@ strago-cid.bin,Strago (Cid IV costume),male,true,7,strago-cid-p.bin,strago|cid4,
 strago-fusoya.bin,Strago (FuSoYa costume),male,true,7,strago-fusoya-p.bin,strago|fusoya,
 strago-t.bin,Strago (T-Edition ver.),male,true,7,,strago,
 strago-tellah.bin,Strago (Tellah costume),male,true,7,strago-tellah-p.bin,strago|tellah,
+subzero.bin,Sub Zero,male,true,3,subzero-p.bin,subzero,
+suika.bin,Suika Ibuki,female,true,8,suika-p.bin,suika,anime
 superbuu.bin,Super Buu,male,true,15,superbuu-p.bin,majinbuu,anime
 suwako.bin,Suwako,female,true,8,suwako-p.bin,suwako,anime
 t260g.bin,T260G,neutral,true,18,t260g-p.bin,t260g,
@@ -527,6 +537,7 @@ terra-amano.bin,Terra (Amano),female,true,0,terra-amano-p.bin,terra,
 terra-child.bin,Terra (child),female,true,0,,terra,kids
 terra-dress.bin,Terra (dressy),female,true,0,,terra,
 terra-rydia.bin,Terra (Rydia costume),female,true,0,terra-rydia-p.bin,terra|rydia,
+terra-sorceress.bin,Terra (Sorceress),female,true,0,,terra,
 teta.bin,Teta,female,true,0,teta-p.bin,teta,
 thief-ff1.bin,Thief (FF1),neutral,true,1,thief-ff1-p.bin,thief,generic
 thieffft.bin,Thief (FFT),male,true,1,thieffft-p.bin,thiefFFT|thief,generic
@@ -589,6 +600,7 @@ wolverine.bin,Wolverine,male,true,11,wolverine-p.bin,wolverine,
 wren.bin,Wren,male,true,14,wren-p.bin,wren,
 xenomorph.bin,Xenomorph,female,true,15,xenomorph-p.bin,xenomorph,animals
 xezhat.bin,Xezhat,male,true,1,xezhat-p.bin,xezhat,
+yamame.bin,Yamame Kurodani,female,true,8,yamame-p.bin,yamame,anime
 yang.bin,Yang,male,true,1,yang-p.bin,yang,
 yoshi.bin,Yoshi,neutral,true,15,yoshi-p.bin,yoshi,animals
 ysayle.bin,Ysayle,female,true,6,ysayle-p.bin,ysayle,
