@@ -16,6 +16,8 @@
 * Terra (Sorceress) by LunarDragon
 * Watcher by JamesWhite89
 * Yamame Kurodani by HoxNorf
+* Shao Khan by JamesWhite89
+* Raiden by JamesWhite89
 
 - New Portrait (22):
 * Baraka by JamesWhite89
