@@ -491,7 +491,7 @@ seymour.bin,Seymour,male,true,9,seymour-p.bin,seymour,
 shadowsmith.bin,Shadow Smith,male,true,9,shadowsmith-p.bin,,
 shangtsung.bin,Shang Tsung,male,true,7,shangtsung-p.bin,shangtsung,
 shantotto.bin,Shantotto,female,true,8,shantotto-p.bin,shantotto,
-shaokahn.bin,Shao Khan,male,true,9,shaokhan-p.bin,shaokhan,
+shaokhan.bin,Shao Khan,male,true,9,shaokhan-p.bin,shaokhan,
 sherlotta.bin,Sherlotta,female,true,0,sherlotta-p.bin,sherlotta,
 shopkeeper.bin,Shopkeeper,male,true,1,shopkeeper-p.bin,,generic
 siegfried.bin,Siegfried,male,true,1,siegfried-p.bin,siegfried,
