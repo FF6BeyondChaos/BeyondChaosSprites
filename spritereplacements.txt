@@ -123,8 +123,8 @@ cyrax.bin,Cyrax,neutral,true,1,cyrax-p.bin,cyrax,
 cyrus.bin,Cyrus,male,true,2,cyrus-p.bin,cyrus,
 dajh.bin,Dajh,male,true,1,dajh-p.bin,dajh,kids
 dancer.bin,Dancer,female,true,10,dancer-p.bin,dancer,generic
-dark-knight.bin,Dark Knight,neutral,true,14,dark-knight-p.bin,darkknight,
 darkelf.bin,Dark Elf,male,true,11,darkelf-p.bin,,
+dark-knight.bin,Dark Knight,neutral,true,14,dark-knight-p.bin,darkknight,
 daryl.bin,Daryl,female,true,6,daryl-p.bin,daryl,
 datto.bin,Datto,male,true,5,datto-p.bin,aurochs,
 deathadder.bin,Death Adder,male,true,14,deathadder-p.bin,deathadder,
@@ -138,8 +138,8 @@ dogstahl.bin,Dogstahl,neutral,true,7,dogstahl-p.bin,gestahl,animals
 dona.bin,Dona,female,true,0,dona-p.bin,dona,
 doncorneo.bin,Don Corneo,male,true,1,doncorneo-p.bin,corneo,
 donkeykong.bin,Donkey Kong,male,true,1,donkeykong-p.bin,kong,animals
-doomimp.bin,Doom Imp,neutral,true,15,doomimp-p.bin,doomimp,animals
 doomguy.bin,Doom Guy,male,true,14,doomguy-p.bin,doomguy,
+doomimp.bin,Doom Imp,neutral,true,15,doomimp-p.bin,doomimp,animals
 door.bin,Door,neutral,true,15,door-p.bin,,object
 dorgann.bin,Dorgann,male,true,1,dorgann-p.bin,dorgann,
 dqslime.bin,Slime (Dragon Quest),neutral,true,15,dqslime-p.bin,slime,animals
@@ -234,7 +234,7 @@ hornytoad.bin,Horny Toad,neutral,true,14,froggy-p.bin,frog,animals
 hotaru.bin,Hotaru,female,true,0,hotaru-p.bin,hotaru,
 iffy.bin,Iffy,female,true,0,iffy-p.bin,iffy,anime
 illya-prisma.bin,Illya (Prisma),female,true,6,illya-prisma-p.bin,illya,kids|anime
-imperialsoldier-amano.bin,Imperial Soldier (Amano),male,true,14,,soldier6,
+imperialsoldier-amano.bin,Imperial Soldier (Amano),male,true,14,imperialsoldier-amano-p.bin,soldier6,
 imperialsoldier-cape.bin,Imperial Soldier (Cape),male,true,14,,soldier6,generic
 imperialsoldier-female.bin,Imperial Soldier (Female),female,true,14,imperialsoldier-female-p.bin,soldier6,generic
 imperialsoldier-female-face.bin,Imperial Soldier (Female Face),female,true,0,imperialsoldier-female-face-p.bin,soldier6,
@@ -243,7 +243,7 @@ ingus.bin,Ingus,male,true,1,ingus-p.bin,ingus,
 interceptor.bin,Interceptor,male,true,3,interceptor-p.bin,pupper,animals
 iris.bin,Iris,female,true,0,iris-p.bin,iris,
 irvine.bin,Irvine,male,true,1,irvine-p.bin,irvine,
-ironclad.bin,Ironclad,male,true,14,defect-p.bin,ironclad,
+ironclad.bin,Ironclad,male,true,14,ironclad-p.bin,ironclad,
 itachi.bin,Itachi,male,true,1,itachi-p.bin,itachi,anime
 jax.bin,Jackson Briggs,male,true,5,jax-p.bin,jax,
 jecht.bin,Jecht,male,true,17,jecht-p.bin,jecht,
@@ -514,9 +514,9 @@ squall-uniform.bin,Squall (SeeD uniform),male,true,1,squall-uniform-p.bin,squall
 squall.bin,Squall,male,true,3,squall-p.bin,squall,
 squire.bin,Squire (FFT),male,true,15,squire-p.bin,squire,
 stalfos.bin,Stalfos,neutral,true,1,stalfos-p.bin,,object
+star-breaker.bin,Star Breaker,female,true,6,star-breaker-p.bin,,
 starfox.bin,Fox McCloud,male,true,10,starfox-p.bin,starfox,animals
 starwolf.bin,Wolf O Donnell,male,true,1,starwolf-p.bin,starwolf|werewolf,animals
-star-breaker.bin,Star Breaker,female,true,6,star-breaker-p.bin,,
 steiner.bin,Steiner,male,true,2,steiner-p.bin,steiner,
 stiltzkin.bin,Stiltzkin,neutral,true,10,stiltzkin-p.bin,moogle,animals
 strago-blackmage.bin,Strago (Black Mage costume),male,true,7,strago-blackmage-p.bin,strago|blackmage,
