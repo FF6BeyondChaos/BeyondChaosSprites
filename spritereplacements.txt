@@ -503,7 +503,10 @@ slash.bin,Slash,male,true,2,slash-p.bin,slashCT,
 slime.bin,Slime,neutral,true,4,slime-p.bin,slime,object|generic
 snow.bin,Snow,male,true,9,snow-p.bin,snow,
 soeboy.bin,Boy (Secret of Evermore),male,true,11,soeboy-p.bin,boySoE,
+soegreyhound.bin,Greyhound (Secret of Evermore),neutral,true,15,soegreyhound-p.bin,pupper,animals
 soepoodle.bin,Poodle (Secret of Evermore),neutral,true,15,soepoodle-p.bin,pupper,animals
+soespot.bin,Dog (Secret of Evermore),neutral,true,15,soespot-p.bin,pupper,animals
+soetoaster.bin,Toaster Dog (Secret of Evermore),neutral,true,15,soetoaster-p.bin,pupper,animals
 soewolfdog.bin,Wolf Dog (Secret of Evermore),neutral,true,15,soewolfdog-p.bin,pupper,animals
 soldier9.bin,Soldier / Knight of Pluto (IX),male,true,15,soldier9-p.bin,soldier9,generic
 sonic.bin,Sonic,male,true,10,sonic-p.bin,sonic,animals

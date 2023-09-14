@@ -1,3 +1,23 @@
+*-> Version 3.6:
+- New Sprites (3):
+* SoE Greyhound by CDude
+* SoE Spot by CDude
+* SoE Toaster by CDude
+
+- New Portraits (5):
+
+* SoE Greyhound by CDude
+* SoE Spot by CDude
+* SoE Toaster by CDude
+* Merchant by CDude
+* Esper Umaro by CDude
+
+- New Lines (3):
+
+soetoaster.bin,Toaster Dog (Secret of Evermore),neutral,true,15,soetoaster-p.bin,pupper,animals
+soespot.bin,Dog (Secret of Evermore),neutral,true,15,soespot-p.bin,pupper,animals
+soegreyhound.bin,Greyhound (Secret of Evermore),neutral,true,15,soegreyhound-p.bin,pupper,animals
+
 * -> Version 3.5:
 - New Sprites (18):
 * Baraka by JamesWhite89
