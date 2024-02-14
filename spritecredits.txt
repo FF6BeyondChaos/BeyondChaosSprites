@@ -136,9 +136,9 @@ Mascot1063: Ellone portrait, Train Conductor portrait
 
 VRNocturne: Lufia portrait
 
-Hoxnorf: Neptune, Nepgear, Freya, Iffy, Rom, Uni, Cirno, Reimu
+Hoxnorf: Neptune, Nepgear, Freya, Iffy, Rom, Uni, Cirno, Reimu Hakurei
     (V4) Devout, Elarra, Hotaru, Illya, Iris, Josef, Lenna, Lenna (white mage), Lilith, Malin, Marisa, Nakoruru, Neptune (adult), Noire, Palom, Porom, Refia, Relm (amano), Rimururu, Rumia, Sakuya, Schala, Scott, Shantotto, Talim, Toadette, Tohka, Irvine portrait
-    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pooka, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait, Angeal, Bombette, Laguna, Selphie, Sora, Lenna (Beastmaster), Lenna (Knight), Lenna (Mime), Lovers, Clara, Flandre Scarlet, Golbez (TAY), Gryz, Lenna (Samurai), Lenna (Thief), Kaguya Houraisan, Mononobe no Futo, Palom (Magus), Patchouli, Porom (Devout), Raja, Reisen, Remilia Scarlet, Rune, Suwako, Waddle Doo, Alice Margatroid, Amy Rose, Blaze the Cat, Cait Sith (VII), Koishi Komeiji, Lenna (Bard), Lenna (Summoner), Nepgear (Purple Sister), Nitori Kawashiro, Satori Komeiji, Toadette (Explorer), Tohka (Spirit Form), Wren, Yuyuko Saigyouji, Dr. Lugae Portrait, Eirin Yagokoro, Lenna (Chemist), Riku, Suika Ibuki, Yamame Kurodani
+    (new) Akari, Aria, Arle, Banjo and Kazooie, Biggs (Record Keeper), Ceodore, Chen, Cleon, Genesis, Hojo, Kuja, Lenna (Dancer), Lenna (Ranger), Lenna (Time Mage), Opa-Opa, Pac-Man Ghost, Palom (TAY), Paul, Pooka, Porom (TAY), Sanae, Sarisa, Serafie, Sherlotta (w/ ScarabEnigma), StarWolf, Ursula, Blaze Portrait, Chun-li Portrait, Dr. Mog Portrait, Duran Portrait, Ryu (Street Fighter) Portrait, Shadowsmith Portrait, Angeal, Bombette, Laguna, Selphie, Sora, Lenna (Beastmaster), Lenna (Knight), Lenna (Mime), Lovers, Clara, Flandre Scarlet, Golbez (TAY), Gryz, Lenna (Samurai), Lenna (Thief), Kaguya Houraisan, Mononobe no Futo, Palom (Magus), Patchouli, Porom (Devout), Raja, Reisen Udongein Inaba, Remilia Scarlet, Rune, Suwako Moriya, Waddle Doo, Alice Margatroid, Amy Rose, Blaze the Cat, Cait Sith (VII), Koishi Komeiji, Lenna (Bard), Lenna (Summoner), Nepgear (Purple Sister), Nitori Kawashiro, Satori Komeiji, Toadette (Explorer), Tohka (Spirit Form), Wren, Yuyuko Saigyouji, Dr. Lugae Portrait, Eirin Yagokoro, Lenna (Chemist), Riku, Suika Ibuki, Yamame Kurodani, Bartz (Knight), Marth, Lenna (Monk), Neptune (Purple Heart), Reimu Hakurei (Young), Fujiwara no Mokou, Youmu Konpaku, Amiya, Toadette (Sailor), Shulk, Toyosatomimi no Miko
 
 CtrlxZ - Curation, Compilation, Editting, and BC preparation as well as Ramza, Reno, Seifer, Squall, Chupon, Retro Pikachu, Bartz, Kelgar, Edge, Holy Dragoon, Sephiroth, Barret, Zack, Clock, Turtle, Byuu, Sion, Marle, Yang, FF7 Cid, FF4 Cid, Rydia Child, Vaan, StarFox etc
     (V4) Banon (wizard), Dark Knight, Edea, Imperial Soldier (cape), Irvine, Nun, Returner (warrior), Rinoa, Seymour, Tifa (cowgirl), Zombie, Exdeath portrait
@@ -147,6 +147,8 @@ CtrlxZ - Curation, Compilation, Editting, and BC preparation as well as Ramza, R
 Quikdraw7777: (new) Amazon (female), Blaze Fielding, Cammy, Chef, Chun-li, Hashirama, Hidan, Imperial Soldier (Female), Imperial Soldier (Female Face), Itachi, Jack the Ripper, Kakashi, Kakashi (Slashed), Kakuzu, Kisame, Konan, Lamp, Madara, Maid, Master Sword, Michael Myers, Neclord, Ninja (Female), Officer (Female), Orochimaru, Prisoner, Ryu (Street Fighter), Samehada, Sasori, Super Buu, Tobi, Tree, Zetsu
 
 LunarDragon: Terra (Sorceress)
+
+pomariin: Demi-fiend, Flowey
 
 RiftDragonHaze: Bleu, DQ Slime, DQ Sorcerer, Hargon, Katt, Star-Breaker, Whackolyte, Ysayle
 
