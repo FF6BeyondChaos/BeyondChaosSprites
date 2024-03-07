@@ -342,6 +342,7 @@ mastersword.bin,Master Sword,neutral,true,18,mastersword-p.bin,sword,object
 matoya.bin,Matoya,female,true,0,matoya-p.bin,matoya,
 maxim.bin,Maxim,male,true,1,maxim-p.bin,maxim,
 megaman.bin,MegaMan,male,true,1,megaman-p.bin,megaman,
+meiling.bin,Hong Meiling,female,true,6,meiling-p.bin,meiling,anime
 merchant-amano.bin,Merchant (Amano),male,true,12,merchant-amano-p.bin,,generic
 metalsonic.bin,Metal Sonic,neutral,true,14,metalsonic-p.bin,metalsonic,object
 metroid.bin,Metroid,neutral,true,18,metroid-p.bin,metroid,animals
@@ -381,6 +382,7 @@ oddish.bin,Oddish,neutral,true,15,oddish-p.bin,,animals
 officer-female.bin,Officer (Female),female,true,0,officer-female-p.bin,officer,generic
 oglop-cid.bin,Cid (IX) (Oglop),male,true,14,oglop-p.bin,cid9,animals
 oldman.bin,Old Man,male,true,1,oldman-p.bin,,generic
+olimar.bin,Olimar,male,true,15,olimar-p.bin,olimar,
 omega.bin,Omega,neutral,true,18,omega-p.bin,,object
 onionknight.bin,Onion Knight,male,true,16,onionknight-p.bin,onion,kids
 opaopa.bin,Opa-Opa,neutral,true,18,opaopa-p.bin,opaopa,object

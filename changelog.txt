@@ -1,13 +1,15 @@
 * -> Version 3.7:
-- New Sprites (13):
+- New Sprites (15):
 * Amiya by HoxNorf
 * Bartz (Knight) by HoxNorf
 * Demi-fiend by pomariin
 * Flowey by pomariin
 * Fujiwara no Mokou by HoxNorf
+* Hong Meiling by HoxNorf
 * Lenna (Monk) by HoxNorf
 * Marth by HoxNorf
 * Neptune (Purple Heart) by HoxNorf
+* Olimar bu HoxNorf
 * Reimu Hakurei (Young) by HoxNorf
 * Shulk by HoxNorf
 * Toadette (Sailor) by HoxNorf
@@ -18,38 +20,42 @@
 * Toadette by HoxNorf
 * Toadette (Explorer) by HoxNorf
 
-- New Portraits (11):
+- New Portraits (13):
 * Amiya by HoxNorf
 * Demi-fiend by pomariin
 * Flowey by pomariin
 * Fujiwara no Mokou by HoxNorf
+* Hong Meiling by HoxNorf
 * Marth by HoxNorf
 * Neptune (Purple Heart) by HoxNorf
+* Olimar by HoxNorf
 * Reimu Hakurei (Young) by HoxNorf
 * Shulk by HoxNorf
 * Toadette (Sailor) by HoxNorf
 * Toyosatomimi no Miko by HoxNorf
 * Youmu Konpaku by HoxNorf
 
-- New Lines (13):
-* amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
-* bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
-* demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
-* flowey.bin,Flowey,neutral,true,15,flowey-p.bin,flowey,object
-* lenna-monk.bin,Lenna (Monk),female,true,0,lenna-p.bin,lenna|monk,
-* marth.bin,Marth,male,true,4,marth-p.bin,marth,
-* miko.bin,Toyosatomimi no Miko,female,true,0,miko-p.bin,miko,anime
-* mokou.bin,Fujiwara no Mokou,female,true,0,mokou-p.bin,mokou,anime
-* purpleheart.bin,Neptune (Purple Heart),female,true,6,purpleheart-p.bin,neptune,anime
-* reimu-young.bin,Reimu Hakurei (Young),female,true,8,reimu-young-p.bin,reimu,kids|anime
-* shulk.bin,Shulk,male,true,1,shulk-p.bin,shulk,
-* toadette-sailor.bin,Toadette (Sailor),female,true,15,toadette-sailor-p.bin,toadette,
-* youmu.bin,Youmu Konpaku,female,true,0,youmu-p.bin,youmu,anime
+- New Lines (15):
+amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
+bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
+demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
+flowey.bin,Flowey,neutral,true,15,flowey-p.bin,flowey,object
+lenna-monk.bin,Lenna (Monk),female,true,0,lenna-p.bin,lenna|monk,
+marth.bin,Marth,male,true,4,marth-p.bin,marth,
+meiling.bin,Hong Meiling,female,true,6,meiling-p.bin,meiling,anime
+miko.bin,Toyosatomimi no Miko,female,true,0,miko-p.bin,miko,anime
+mokou.bin,Fujiwara no Mokou,female,true,0,mokou-p.bin,mokou,anime
+olimar.bin,Olimar,male,true,15,olimar-p.bin,olimar,
+purpleheart.bin,Neptune (Purple Heart),female,true,6,purpleheart-p.bin,neptune,anime
+reimu-young.bin,Reimu Hakurei (Young),female,true,8,reimu-young-p.bin,reimu,kids|anime
+shulk.bin,Shulk,male,true,1,shulk-p.bin,shulk,
+toadette-sailor.bin,Toadette (Sailor),female,true,15,toadette-sailor-p.bin,toadette,
+youmu.bin,Youmu Konpaku,female,true,0,youmu-p.bin,youmu,anime
 
 - Updated/Changed Lines (3):
-* reimu.bin,Reimu Hakurei,female,true,0,reimu-p.bin,reimu,anime
-* reisen.bin,Reisen Udongein Inaba,female,true,6,reisen-p.bin,reisen,anime
-* suwako.bin,Suwako Moriya,female,true,8,suwako-p.bin,suwako,anime
+reimu.bin,Reimu Hakurei,female,true,0,reimu-p.bin,reimu,anime
+reisen.bin,Reisen Udongein Inaba,female,true,6,reisen-p.bin,reisen,anime
+suwako.bin,Suwako Moriya,female,true,8,suwako-p.bin,suwako,anime
 
 * -> Version 3.6:
 - New Sprites (3):
