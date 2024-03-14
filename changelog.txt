@@ -1,5 +1,5 @@
 * -> Version 3.7:
-- New Sprites (15):
+- New Sprites (16):
 * Amiya by HoxNorf
 * Bartz (Knight) by HoxNorf
 * Demi-fiend by pomariin
@@ -12,6 +12,7 @@
 * Olimar bu HoxNorf
 * Reimu Hakurei (Young) by HoxNorf
 * Shulk by HoxNorf
+* Tao (Shining Force) by HoxNorf
 * Toadette (Sailor) by HoxNorf
 * Toyosatomimi no Miko by HoxNorf
 * Youmu Konpaku by HoxNorf
@@ -20,7 +21,7 @@
 * Toadette by HoxNorf
 * Toadette (Explorer) by HoxNorf
 
-- New Portraits (13):
+- New Portraits (14):
 * Amiya by HoxNorf
 * Demi-fiend by pomariin
 * Flowey by pomariin
@@ -31,11 +32,12 @@
 * Olimar by HoxNorf
 * Reimu Hakurei (Young) by HoxNorf
 * Shulk by HoxNorf
+* Tao (Shining Force) by HoxNorf
 * Toadette (Sailor) by HoxNorf
 * Toyosatomimi no Miko by HoxNorf
 * Youmu Konpaku by HoxNorf
 
-- New Lines (15):
+- New Lines (16):
 amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
 bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
 demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
@@ -49,6 +51,7 @@ olimar.bin,Olimar,male,true,15,olimar-p.bin,olimar,
 purpleheart.bin,Neptune (Purple Heart),female,true,6,purpleheart-p.bin,neptune,anime
 reimu-young.bin,Reimu Hakurei (Young),female,true,8,reimu-young-p.bin,reimu,kids|anime
 shulk.bin,Shulk,male,true,1,shulk-p.bin,shulk,
+tao.bin,Tao (Shining Force),female,true,0,tao-p.bin,tao,
 toadette-sailor.bin,Toadette (Sailor),female,true,15,toadette-sailor-p.bin,toadette,
 youmu.bin,Youmu Konpaku,female,true,0,youmu-p.bin,youmu,anime
 

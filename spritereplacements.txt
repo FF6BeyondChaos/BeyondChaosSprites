@@ -547,6 +547,7 @@ suwako.bin,Suwako Moriya,female,true,8,suwako-p.bin,suwako,anime
 t260g.bin,T260G,neutral,true,18,t260g-p.bin,t260g,
 tails.bin,Tails,male,true,10,tails-p.bin,tails,animals
 talim.bin,Talim,female,true,0,talim-p.bin,talim,
+tao.bin,Tao (Shining Force),female,true,0,tao-p.bin,tao,
 teddie.bin,Teddie,male,true,15,teddie-p.bin,teddie,animals
 tellah.bin,Tellah,male,true,7,tellah-p.bin,tellah,
 terra-amano.bin,Terra (Amano),female,true,0,terra-amano-p.bin,terra,
