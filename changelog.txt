@@ -1,7 +1,10 @@
 * -> Version 3.7:
-- New Sprites (16):
+- New Sprites (19):
+* Alexander Highwind Tycoon by HoxNorf
+* Alys Brangwin by HoxNorf
 * Amiya by HoxNorf
 * Bartz (Knight) by HoxNorf
+* Chaz Ashley by HoxNorf
 * Demi-fiend by pomariin
 * Flowey by pomariin
 * Fujiwara no Mokou by HoxNorf
@@ -9,7 +12,7 @@
 * Lenna (Monk) by HoxNorf
 * Marth by HoxNorf
 * Neptune (Purple Heart) by HoxNorf
-* Olimar bu HoxNorf
+* Olimar by HoxNorf
 * Reimu Hakurei (Young) by HoxNorf
 * Shulk by HoxNorf
 * Tao (Shining Force) by HoxNorf
@@ -21,8 +24,11 @@
 * Toadette by HoxNorf
 * Toadette (Explorer) by HoxNorf
 
-- New Portraits (14):
+- New Portraits (17):
+* Alexander Highwind Tycoon by Metalliguy and Gens
+* Alys Brangwin by HoxNorf
 * Amiya by HoxNorf
+* Chaz Ashley by HoxNorf
 * Demi-fiend by pomariin
 * Flowey by pomariin
 * Fujiwara no Mokou by HoxNorf
@@ -37,9 +43,11 @@
 * Toyosatomimi no Miko by HoxNorf
 * Youmu Konpaku by HoxNorf
 
-- New Lines (16):
+- New Lines (19):
+alys.bin,Alys Brangwin,female,true,6,alys-p.bin,alys,
 amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
 bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
+chaz.bin,Chaz Ashley,male,true,1,chaz-p.bin,chaz,
 demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
 flowey.bin,Flowey,neutral,true,15,flowey-p.bin,flowey,object
 lenna-monk.bin,Lenna (Monk),female,true,0,lenna-p.bin,lenna|monk,
@@ -53,6 +61,7 @@ reimu-young.bin,Reimu Hakurei (Young),female,true,8,reimu-young-p.bin,reimu,kids
 shulk.bin,Shulk,male,true,1,shulk-p.bin,shulk,
 tao.bin,Tao (Shining Force),female,true,0,tao-p.bin,tao,
 toadette-sailor.bin,Toadette (Sailor),female,true,15,toadette-sailor-p.bin,toadette,
+tycoon.bin,Alexander Highwind Tycoon,male,true,4,tycoon-p.bin,tycoon,
 youmu.bin,Youmu Konpaku,female,true,0,youmu-p.bin,youmu,anime
 
 - Updated/Changed Lines (3):

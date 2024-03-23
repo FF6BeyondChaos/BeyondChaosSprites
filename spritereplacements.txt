@@ -9,6 +9,7 @@ algus.bin,Algus,male,true,1,algus-p.bin,algus,
 alice.bin,Alice Margatroid,female,true,6,alice-p.bin,alice,anime
 alma.bin,Alma,female,true,0,alma-p.bin,alma,
 alphys.bin,Alphys,female,true,6,alphys-p.bin,alphys,
+alys.bin,Alys Brangwin,female,true,6,alys-p.bin,alys,
 amazon-female.bin,Amazon (Female),female,true,6,amazon-female-p.bin,amazon,generic
 amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
 amy.bin,Amy Rose,female,true,8,amy-p.bin,amyrose,animals
@@ -91,6 +92,7 @@ cfalcon.bin,Captain Falcon,male,true,14,cfalcon-p.bin,cfalcon,
 chair.bin,Empty Chair,neutral,true,14,chair-p.bin,,object
 chancellor.bin,Chancellor,male,true,4,chancellor-p.bin,,generic
 chaos.bin,Chaos,male,true,13,chaos-p.bin,garland,
+chaz.bin,Chaz Ashley,male,true,1,chaz-p.bin,chaz,
 chef.bin,Chef,male,true,1,chef-p.bin,chef,generic
 chemist.bin,Chemist,male,true,4,chemist-p.bin,,generic
 chen.bin,Chen,female,true,8,chen-p.bin,chen,kids|anime
@@ -582,6 +584,7 @@ trainconductor.bin,Train Conductor,male,true,1,trainconductor-p.bin,,generic
 treasurechest.bin,Treasure Chest,neutral,true,18,treasurechest-p.bin,,object
 tree.bin,Tree,neutral,true,15,tree-p.bin,tree,object
 turtle.bin,Turtle,neutral,true,1,turtle-p.bin,turtle,animals|generic
+tycoon.bin,Alexander Highwind Tycoon,male,true,4,tycoon-p.bin,tycoon,
 tyro.bin,Tyro,male,true,1,tyro-p.bin,tyro,kids
 ultros.bin,Ultros,male,true,1,ultros-p.bin,ultros,animals
 umaro-banon.bin,Umaro (Banon costume),male,true,13,umaro-banon-p.bin,umaro|banon,
