@@ -1,5 +1,5 @@
 * -> Version 3.7:
-- New Sprites (19):
+- New Sprites (20):
 * Alexander Highwind Tycoon by HoxNorf
 * Alys Brangwin by HoxNorf
 * Amiya by HoxNorf
@@ -9,6 +9,7 @@
 * Flowey by pomariin
 * Fujiwara no Mokou by HoxNorf
 * Hong Meiling by HoxNorf
+* Lenna (Dragoon) by HoxNorf
 * Lenna (Monk) by HoxNorf
 * Marth by HoxNorf
 * Neptune (Purple Heart) by HoxNorf
@@ -43,13 +44,14 @@
 * Toyosatomimi no Miko by HoxNorf
 * Youmu Konpaku by HoxNorf
 
-- New Lines (19):
+- New Lines (20):
 alys.bin,Alys Brangwin,female,true,6,alys-p.bin,alys,
 amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
 bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
 chaz.bin,Chaz Ashley,male,true,1,chaz-p.bin,chaz,
 demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
 flowey.bin,Flowey,neutral,true,15,flowey-p.bin,flowey,object
+lenna-dragoon.bin,Lenna (Dragoon),female,true,0,lenna-p.bin,lenna|dragoon,
 lenna-monk.bin,Lenna (Monk),female,true,0,lenna-p.bin,lenna|monk,
 marth.bin,Marth,male,true,4,marth-p.bin,marth,
 meiling.bin,Hong Meiling,female,true,6,meiling-p.bin,meiling,anime
