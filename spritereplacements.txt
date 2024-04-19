@@ -136,6 +136,7 @@ decil.bin,Dark Knight Cecil,male,true,4,decil-p.bin,cecil,
 defect.bin,Defect,neutral,true,14,defect-p.bin,defect,object
 delita-armor.bin,Delita (armor),male,true,1,delita-armor-p.bin,delita,
 delita.bin,Delita,male,true,1,delita-p.bin,delita,
+demi.bin,Demi,female,true,0,demi-p.bin,demi,
 demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
 desch.bin,Desch,male,true,4,desch-p.bin,desch,
 devout.bin,Devout,neutral,true,0,devout-p.bin,devout|whitemage,generic
@@ -320,6 +321,7 @@ lugae.bin,Dr. Lugae,male,true,7,lugae-p.bin,lugae,
 luigi.bin,Luigi,male,true,1,luigi-p.bin,luigi,
 lulu.bin,Lulu,female,true,0,lulu-p.bin,lulu,
 luneth.bin,Luneth,male,true,1,luneth-p.bin,luneth,
+lutz.bin,Lutz,male,true,4,lutz-p.bin,lutz,
 madara.bin,Madara,male,true,1,madara-p.bin,madara,anime
 maduin.bin,Maduin,male,true,0,maduin-p.bin,maduin,
 magicite.bin,Magicite,neutral,true,18,magicite-p.bin,,object
@@ -628,6 +630,7 @@ yoshi.bin,Yoshi,neutral,true,15,yoshi-p.bin,yoshi,animals
 youmu.bin,Youmu Konpaku,female,true,0,youmu-p.bin,youmu,anime
 ysayle.bin,Ysayle,female,true,6,ysayle-p.bin,ysayle,
 yuffie.bin,Yuffie,female,true,8,yuffie-p.bin,yuffie,
+yukari.bin,Yukari Yakumo,female,true,6,yukari-p.bin,yukari,anime
 yuna.bin,Yuna,female,true,1,yuna-p.bin,yuna,
 yura.bin,Yura,male,true,5,yura-p.bin,yura,
 yuyuko.bin,Yuyuko Saigyouji,female,true,6,yuyuko-p.bin,yuyuko,anime
