@@ -258,6 +258,7 @@ jennybot.bin,JennyBot,female,true,14,jennybot-p.bin,jennybot,
 jessie7.bin,Jessie (VII),female,true,0,jessie7-p.bin,jessie,
 jevil.bin,Jevil,male,true,15,jevil-p.bin,jevil,
 johnny.bin,Johnny,male,true,1,johnny-p.bin,johnny,object
+johnnycage.bin,Johnny Cage,male,true,5,johnnycage-p.bin,johnnycage,
 josef.bin,Josef,male,true,16,josef-p.bin,josef,
 jripper.bin,Jack the Ripper,male,true,14,jripper-p.bin,jripper,
 judge.bin,Judge,male,true,15,judge-p.bin,judge,generic
@@ -274,6 +275,7 @@ kimahri.bin,Kimahri,male,true,1,kimahri-p.bin,kimahri,
 kirby.bin,Kirby,neutral,true,1,kirby-p.bin,kirby,
 kiros-soldier.bin,Kiros (soldier),male,true,16,kiros-p.bin,kiros|soldier8,
 kisame.bin,Kisame,male,true,3,kisame-p.bin,kisame,anime
+kitana.bin,Kitana,female,true,0,kitana-p.bin,kitana,
 knight.bin,Knight (FFT),male,true,1,knight-p.bin,fftknight|knight,generic
 knuckles.bin,Knuckles,male,true,15,knuckles-p.bin,knuckles,animals
 koishi.bin,Koishi Komeiji,female,true,8,koishi-p.bin,koishi|komeiji,anime
@@ -308,6 +310,7 @@ letty.bin,Letty,male,true,5,letty-p.bin,aurochs,
 lightning.bin,Lightning,female,true,5,lightning-p.bin,lightning,
 lilith.bin,Lilith,female,true,0,lilith-p.bin,lilith,
 link.bin,Link,male,true,1,link-p.bin,link,
+liukang.bin,Liu Kang,male,true,5,liukang-p.bin,liukang,
 locke-amano.bin,Locke (Amano),male,true,1,locke-amano-p.bin,locke,
 locke-draco.bin,Locke (Draco costume),male,true,1,locke-draco-p.bin,locke|draco,
 locke-firion.bin,Locke (Firion costume),male,true,1,locke-firion-p.bin,locke|firion,
