@@ -33,7 +33,7 @@
 * Toadette by HoxNorf
 * Toadette (Explorer) by HoxNorf
 
-- New Portraits (25):
+- New Portraits (27):
 * Alexander Highwind Tycoon by Metalliguy and Gens
 * Alys Brangwin by HoxNorf
 * Amiya by HoxNorf
@@ -47,6 +47,8 @@
 * Iron Man by JamesWhite89
 * Johnny Cage by JamesWhite89
 * Kitana by JamesWhite89
+* Lenna (Dragoon) by JamesWhite89
+* Lenna (Monk) by JamesWhite89
 * Liu Kang by JamesWhite89
 * Lutz by HoxNorf
 * Marth by HoxNorf
@@ -72,8 +74,8 @@ ike.bin,Ike (Path of Radiance),male,true,4,ike-p.bin,ike,
 ironman.bin,Iron Man,male,true,14,ironman-p.bim,ironman,
 johnnycage.bin,Johnny Cage,male,true,5,johnnycage-p.bin,johnnycage,
 kitana.bin,Kitana,female,true,0,kitana-p.bin,kitana,
-lenna-dragoon.bin,Lenna (Dragoon),female,true,0,lenna-p.bin,lenna|dragoon,
-lenna-monk.bin,Lenna (Monk),female,true,0,lenna-p.bin,lenna|monk,
+lenna-dragoon.bin,Lenna (Dragoon),female,true,0,lenna-dragoon-p.bin,lenna|dragoon,
+lenna-monk.bin,Lenna (Monk),female,true,0,lenna-monk-p.bin,lenna|monk,
 liukang.bin,Liu Kang,male,true,5,liukang-p.bin,liukang,
 lutz.bin,Lutz,male,true,4,lutz-p.bin,lutz,
 marth.bin,Marth,male,true,4,marth-p.bin,marth,
