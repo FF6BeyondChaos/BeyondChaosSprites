@@ -1,11 +1,109 @@
-*-> Version 3.6:
+* -> Version 3.7:
+- New Sprites (28):
+* Alexander Highwind Tycoon by HoxNorf
+* Alys Brangwin by HoxNorf
+* Amiya by HoxNorf
+* Bartz (Knight) by HoxNorf
+* Chaz Ashley by HoxNorf
+* Demi by HoxNorf
+* Demi-fiend by pomariin
+* Flowey by pomariin
+* Fujiwara no Mokou by HoxNorf
+* Hong Meiling by HoxNorf
+* Ike (Path of Radiance) by HoxNorf
+* Iron Man by JamesWhite89
+* Johnny Cage by JamesWhite89
+* Kitana by JamesWhite89
+* Lenna (Dragoon) by HoxNorf
+* Lenna (Monk) by HoxNorf
+* Liu Kang by JamesWhite89
+* Lutz by HoxNorf
+* Marth by HoxNorf
+* Neptune (Purple Heart) by HoxNorf
+* Olimar by HoxNorf
+* Reimu Hakurei (Young) by HoxNorf
+* Shulk by HoxNorf
+* Tao (Shining Force) by HoxNorf
+* Toadette (Sailor) by HoxNorf
+* Toyosatomimi no Miko by HoxNorf
+* Youmu Konpaku by HoxNorf
+* Yukari Yakumo by HoxNorf
+
+- Update/Changed Sprites (2):
+* Toadette by HoxNorf
+* Toadette (Explorer) by HoxNorf
+
+- New Portraits (27):
+* Alexander Highwind Tycoon by Metalliguy and Gens
+* Alys Brangwin by HoxNorf
+* Amiya by HoxNorf
+* Chaz Ashley by HoxNorf
+* Demi by HoxNorf
+* Demi-fiend by pomariin
+* Flowey by pomariin
+* Fujiwara no Mokou by HoxNorf
+* Hong Meiling by HoxNorf
+* Ike (Path of Radiance) by HoxNorf
+* Iron Man by JamesWhite89
+* Johnny Cage by JamesWhite89
+* Kitana by JamesWhite89
+* Lenna (Dragoon) by JamesWhite89
+* Lenna (Monk) by JamesWhite89
+* Liu Kang by JamesWhite89
+* Lutz by HoxNorf
+* Marth by HoxNorf
+* Neptune (Purple Heart) by HoxNorf
+* Olimar by HoxNorf
+* Reimu Hakurei (Young) by HoxNorf
+* Shulk by HoxNorf
+* Tao (Shining Force) by HoxNorf
+* Toadette (Sailor) by HoxNorf
+* Toyosatomimi no Miko by HoxNorf
+* Youmu Konpaku by HoxNorf
+* Yukari Yakumo by HoxNorf
+
+- New Lines (28):
+alys.bin,Alys Brangwin,female,true,6,alys-p.bin,alys,
+amiya.bin,Amiya,female,true,0,amiya-p.bin,amiya,anime
+bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
+chaz.bin,Chaz Ashley,male,true,1,chaz-p.bin,chaz,
+demi.bin,Demi,female,true,0,demi-p.bin,demi,
+demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
+flowey.bin,Flowey,neutral,true,15,flowey-p.bin,flowey,object
+ike.bin,Ike (Path of Radiance),male,true,4,ike-p.bin,ike,
+ironman.bin,Iron Man,male,true,14,ironman-p.bim,ironman,
+johnnycage.bin,Johnny Cage,male,true,5,johnnycage-p.bin,johnnycage,
+kitana.bin,Kitana,female,true,0,kitana-p.bin,kitana,
+lenna-dragoon.bin,Lenna (Dragoon),female,true,0,lenna-dragoon-p.bin,lenna|dragoon,
+lenna-monk.bin,Lenna (Monk),female,true,0,lenna-monk-p.bin,lenna|monk,
+liukang.bin,Liu Kang,male,true,5,liukang-p.bin,liukang,
+lutz.bin,Lutz,male,true,4,lutz-p.bin,lutz,
+marth.bin,Marth,male,true,4,marth-p.bin,marth,
+meiling.bin,Hong Meiling,female,true,6,meiling-p.bin,meiling,anime
+miko.bin,Toyosatomimi no Miko,female,true,0,miko-p.bin,miko,anime
+mokou.bin,Fujiwara no Mokou,female,true,0,mokou-p.bin,mokou,anime
+olimar.bin,Olimar,male,true,15,olimar-p.bin,olimar,
+purpleheart.bin,Neptune (Purple Heart),female,true,6,purpleheart-p.bin,neptune,anime
+reimu-young.bin,Reimu Hakurei (Young),female,true,8,reimu-young-p.bin,reimu,kids|anime
+shulk.bin,Shulk,male,true,1,shulk-p.bin,shulk,
+tao.bin,Tao (Shining Force),female,true,0,tao-p.bin,tao,
+toadette-sailor.bin,Toadette (Sailor),female,true,15,toadette-sailor-p.bin,toadette,
+tycoon.bin,Alexander Highwind Tycoon,male,true,4,tycoon-p.bin,tycoon,
+youmu.bin,Youmu Konpaku,female,true,0,youmu-p.bin,youmu,anime
+yukari.bin,Yukari Yakumo,female,true,6,yukari-p.bin,yukari,anime
+
+- Updated/Changed Lines (3):
+reimu.bin,Reimu Hakurei,female,true,0,reimu-p.bin,reimu,anime
+reisen.bin,Reisen Udongein Inaba,female,true,6,reisen-p.bin,reisen,anime
+suwako.bin,Suwako Moriya,female,true,8,suwako-p.bin,suwako,anime
+
+* -> Version 3.6:
 - New Sprites (3):
 * SoE Greyhound by CDude
 * SoE Spot by CDude
 * SoE Toaster by CDude
 
 - New Portraits (5):
-
 * SoE Greyhound by CDude
 * SoE Spot by CDude
 * SoE Toaster by CDude
@@ -13,7 +111,6 @@
 * Esper Umaro by CDude
 
 - New Lines (3):
-
 soetoaster.bin,Toaster Dog (Secret of Evermore),neutral,true,15,soetoaster-p.bin,pupper,animals
 soespot.bin,Dog (Secret of Evermore),neutral,true,15,soespot-p.bin,pupper,animals
 soegreyhound.bin,Greyhound (Secret of Evermore),neutral,true,15,soegreyhound-p.bin,pupper,animals
