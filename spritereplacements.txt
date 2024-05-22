@@ -96,7 +96,8 @@ chaz.bin,Chaz Ashley,male,true,1,chaz-p.bin,chaz,
 chef.bin,Chef,male,true,1,chef-p.bin,chef,generic
 chemist.bin,Chemist,male,true,4,chemist-p.bin,,generic
 chen.bin,Chen,female,true,8,chen-p.bin,chen,kids|anime
-chocobo.bin,Chocobo,neutral,true,1,chocobo-p.bin,,animals
+chocobo.bin,Chocobo,neutral,true,1,chocobo-p.bin,chocobo,animals
+chocobo-racing.bin,Chocobo (Racing),neutral,true,1,chocobo-racing-p.bin,chocobo,animals
 chunli.bin,Chun-li,female,true,0,chunli-p.bin,chunli,
 chupon.bin,Chupon,neutral,true,15,chupon-p.bin,chupon,animals
 cid4.bin,Cid IV,male,true,3,cid4-p.bin,cid4,

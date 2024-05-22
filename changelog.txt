@@ -1,3 +1,16 @@
+* -> Version 3.7.1:
+- New Sprites (1):
+* Chocobo (Racing) by CDude
+
+- New Portraits (1):
+* Chocobo (Racing) by CDude
+
+- New Lines (1):
+chocobo-racing.bin,Chocobo (Racing),neutral,true,1,chocobo-racing-p.bin,chocobo,animals
+
+- Updated/Changed Lines (1):
+chocobo.bin,Chocobo,neutral,true,1,chocobo-p.bin,chocobo,animals
+
 * -> Version 3.7:
 - New Sprites (28):
 * Alexander Highwind Tycoon by HoxNorf
