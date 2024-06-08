@@ -1,3 +1,16 @@
+* -> Version 3.7.2:
+- New Sprites (1):
+* Bear by CDude
+
+- New Portraits (1):
+* Bear by CDude
+
+- New Lines (1):
+bear.bin,Bear,neutral,true,13,bear-p.bin,bear,animals|generic
+
+- Updated Lines (1):
+ironman.bin,Iron Man,male,true,14,ironman-p.bin,ironman,
+
 * -> Version 3.7.1:
 - New Sprites (1):
 * Chocobo (Racing) by CDude
