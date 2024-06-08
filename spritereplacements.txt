@@ -49,6 +49,7 @@ basch-beard.bin,Basch (with beard),male,true,17,basch-p.bin,basch,
 basch.bin,Basch,male,true,1,basch-p.bin,basch,
 batman.bin,Batman,male,true,1,batman-p.bin,batman,
 bb.bin,BB,male,true,1,bb-p.bin,bb,
+bear.bin,Bear,neutral,true,13,bear-p.bin,bear,animals|generic
 beatrix.bin,Beatrix,female,true,6,beatrix-p.bin,beatrix,
 beaver.bin,Beaver,neutral,true,10,beaver-p.bin,,animals|generic
 berserker.bin,Berserker,male,true,13,berserker-p.bin,berserker,generic

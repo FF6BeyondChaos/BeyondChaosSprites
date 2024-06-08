@@ -1,3 +1,16 @@
+* -> Version 3.7.2:
+- New Sprites (1):
+* Bear by CDude
+
+- New Portraits (1):
+* Bear by CDude
+
+- New Lines (1):
+bear.bin,Bear,neutral,true,13,bear-p.bin,bear,animals|generic
+
+- Updated Lines (1):
+ironman.bin,Iron Man,male,true,14,ironman-p.bin,ironman,
+
 * -> Version 3.7.1:
 - New Sprites (1):
 * Chocobo (Racing) by CDude
@@ -84,7 +97,7 @@ demi.bin,Demi,female,true,0,demi-p.bin,demi,
 demifiend.bin,Demi-fiend,male,true,5,demifiend-p.bin,demifiend,
 flowey.bin,Flowey,neutral,true,15,flowey-p.bin,flowey,object
 ike.bin,Ike (Path of Radiance),male,true,4,ike-p.bin,ike,
-ironman.bin,Iron Man,male,true,14,ironman-p.bin,ironman,
+ironman.bin,Iron Man,male,true,14,ironman-p.bim,ironman,
 johnnycage.bin,Johnny Cage,male,true,5,johnnycage-p.bin,johnnycage,
 kitana.bin,Kitana,female,true,0,kitana-p.bin,kitana,
 lenna-dragoon.bin,Lenna (Dragoon),female,true,0,lenna-dragoon-p.bin,lenna|dragoon,
