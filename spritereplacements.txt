@@ -253,7 +253,7 @@ interceptor.bin,Interceptor,male,true,3,interceptor-p.bin,pupper,animals
 iris.bin,Iris,female,true,0,iris-p.bin,iris,
 irvine.bin,Irvine,male,true,1,irvine-p.bin,irvine,
 ironclad.bin,Ironclad,male,true,14,ironclad-p.bin,ironclad,
-ironman.bin,Iron Man,male,true,14,ironman-p.bim,ironman,
+ironman.bin,Iron Man,male,true,14,ironman-p.bin,ironman,
 itachi.bin,Itachi,male,true,1,itachi-p.bin,itachi,anime
 jax.bin,Jackson Briggs,male,true,5,jax-p.bin,jax,
 jecht.bin,Jecht,male,true,17,jecht-p.bin,jecht,
