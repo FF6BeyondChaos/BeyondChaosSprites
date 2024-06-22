@@ -1,12 +1,15 @@
 * -> Version 3.7.2:
-- New Sprites (1):
+- New Sprites (2):
 * Bear by CDude
+* Parsee Mizuhashi by HoxNorf
 
-- New Portraits (1):
+- New Portraits (2):
 * Bear by CDude
+* Parsee Mizuhashi by HoxNorf
 
-- New Lines (1):
+- New Lines (2):
 bear.bin,Bear,neutral,true,13,bear-p.bin,bear,animals|generic
+parsee.bin,Parsee Mizuhashi,female,true,6,parsee-p.bin,parsee,anime
 
 - Updated Lines (1):
 ironman.bin,Iron Man,male,true,14,ironman-p.bin,ironman,

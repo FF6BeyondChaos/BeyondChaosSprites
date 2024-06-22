@@ -406,6 +406,7 @@ palom-tay.bin,Palom (TAY),male,true,1,palom-tay-p.bin,palom,
 palom.bin,Palom,male,true,11,palom-p.bin,twin4|palom,kids
 panda.bin,Panda,neutral,true,13,panda-p.bin,panda,animals
 papyrus.bin,Papyrus,male,true,18,papyrus-p.bin,,
+parsee.bin,Parsee Mizuhashi,female,true,6,parsee-p.bin,parsee,anime
 patchouli.bin,Patchouli,female,true,6,patchouli-p.bin,patchouli,anime
 paul.bin,Paul,male,true,1,paul-p.bin,paul,
 peach.bin,Princess Peach,female,true,0,peach-p.bin,peach,
