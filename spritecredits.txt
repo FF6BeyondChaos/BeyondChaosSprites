@@ -36,7 +36,7 @@ Badass: Granny, Ryu, Cat, Chrono, Cyrus, Frog, Robo, Slash, Mr Saturn, Berserker
 
 brooxly: Flute Boy, Kula, Panda, Zelda
 
-C-Dude: (new) Esper Umaro, Moogle (PJs), Poodle (Secret of Evermore), Red XIII (on 4s), Tonberry King, Wolf Dog (Secret of Evermore), Edge (Child) Portrait, Angeal Portrait, Biggs (Record Keeper) Portrait, Marilith Portrait, Shopkeeper Portrait, Wedge (Record Keeper) Portrait, Merchant portrait, SoE Greyhound, SoE Spot, SoE Toaster, Chocobo (Racing), Bear
+C-Dude: (new) Esper Umaro, Moogle (PJs), Poodle (Secret of Evermore), Red XIII (on 4s), Tonberry King, Wolf Dog (Secret of Evermore), Edge (Child) Portrait, Angeal Portrait, Biggs (Record Keeper) Portrait, Marilith Portrait, Shopkeeper Portrait, Wedge (Record Keeper) Portrait, Merchant portrait, SoE Greyhound, SoE Spot, SoE Toaster, Chocobo (Racing), Bear, King Crab, Lobster, Lobster (Small)
 
 Christian: Tifa
 
@@ -163,6 +163,8 @@ SphericalCube: Duran Portrait
 metalliguy: Alexander Highwind Tycoon portrait (w/ Gens)
 
 Gens: Alexander Highwind Tycoon portrait (w/metalliguy)
+
+Rorahusky: Ceroba, Kanako
 
 Curation and compilation by:
     BC EX v1 - v3: CtrlxZ

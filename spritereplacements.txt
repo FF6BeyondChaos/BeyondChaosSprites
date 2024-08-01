@@ -89,6 +89,7 @@ celes-opera.bin,Celes as Maria,female,true,6,celes-opera-p.bin,celes,
 celes-yuna.bin,Celes (Yuna costume),female,true,6,,celes|yuna,
 cell-imperfect.bin,Imperfect Cell,male,true,15,cell-imperfect-p.bin,cell,anime
 ceodore.bin,Ceodore,male,true,4,ceodore-p.bin,ceodore,
+ceroba.bin,Ceroba,female,true,6,ceroba-p.bin,ceroba,animals
 cfalcon.bin,Captain Falcon,male,true,14,cfalcon-p.bin,cfalcon,
 chair.bin,Empty Chair,neutral,true,14,chair-p.bin,,object
 chancellor.bin,Chancellor,male,true,4,chancellor-p.bin,,generic
@@ -271,11 +272,13 @@ kain.bin,Kain,male,true,5,kain-p.bin,kain|dragoon,
 kakashi.bin,Kakashi,male,true,3,kakashi-p.bin,kakashi,anime
 kakashi-slash.bin,Kakashi (Slashed),male,true,3,kakashi-slash-p.bin,kakashi,anime
 kakuzu.bin,Kazuku,male,true,3,kakuzu-p.bin,kakuzu,anime
+kanako.bin,Kanako,female,true,8,kanako-p.bin,kanako,animals
 katarin.bin,Katarin,female,true,0,katarin-p.bin,katarin,
 katt.bin,Katt,female,true,6,katt-p.bin,katt,
 kelgar.bin,Kelgar,male,true,1,kelgar-p.bin,kelgar|werewolf,animals
 kiki.bin,Kiki,neutral,true,1,kiki-p.bin,kiki,animals
 kimahri.bin,Kimahri,male,true,1,kimahri-p.bin,kimahri,
+kingcrab.bin,King Crab,neutral,true,15,kingcrab-p.bin,crab,animals|generic
 kirby.bin,Kirby,neutral,true,1,kirby-p.bin,kirby,
 kiros-soldier.bin,Kiros (soldier),male,true,16,kiros-p.bin,kiros|soldier8,
 kisame.bin,Kisame,male,true,3,kisame-p.bin,kisame,anime
@@ -315,6 +318,8 @@ lightning.bin,Lightning,female,true,5,lightning-p.bin,lightning,
 lilith.bin,Lilith,female,true,0,lilith-p.bin,lilith,
 link.bin,Link,male,true,1,link-p.bin,link,
 liukang.bin,Liu Kang,male,true,5,liukang-p.bin,liukang,
+lobster-small.bin,Lobster (small),neutral,true,15,lobster-p.bin,lobster,animals|generic
+lobster.bin,Lobster,neutral,true,15,lobster-p.bin,lobster,animals|generic
 locke-amano.bin,Locke (Amano),male,true,1,locke-amano-p.bin,locke,
 locke-draco.bin,Locke (Draco costume),male,true,1,locke-draco-p.bin,locke|draco,
 locke-firion.bin,Locke (Firion costume),male,true,1,locke-firion-p.bin,locke|firion,
