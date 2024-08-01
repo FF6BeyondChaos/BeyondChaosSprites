@@ -1,3 +1,34 @@
+* -> Version 3.7.2:
+- New Sprites (7):
+* Bear by CDude
+* Ceroba by Rorahusky
+* Kanako by Rorahusky
+* King Crab by CDude
+* Lobster (Small) by CDude
+* Lobster by CDude
+* Parsee Mizuhashi by HoxNorf
+
+- New Portraits (7):
+* Bear by CDude
+* Ceroba by Rorahusky
+* Kanako by Rorahusky
+* King Crab by CDude
+* Lobster (Small) by CDude
+* Lobster by CDude
+* Parsee Mizuhashi by HoxNorf
+
+- New Lines (7):
+bear.bin,Bear,neutral,true,13,bear-p.bin,bear,animals|generic
+ceroba.bin,Ceroba,female,true,6,ceroba-p.bin,ceroba,animals
+kanako.bin,Kanako,female,true,8,kanako-p.bin,kanako,animals
+kingcrab.bin,King Crab,neutral,true,15,kingcrab-p.bin,crab,animals|generic
+lobster-small.bin,Lobster (small),neutral,true,15,lobster-p.bin,lobster,animals|generic
+lobster.bin,Lobster,neutral,true,15,lobster-p.bin,lobster,animals|generic
+parsee.bin,Parsee Mizuhashi,female,true,6,parsee-p.bin,parsee,anime
+
+- Updated Lines (1):
+ironman.bin,Iron Man,male,true,14,ironman-p.bin,ironman,
+
 * -> Version 3.7.1:
 - New Sprites (1):
 * Chocobo (Racing) by CDude
