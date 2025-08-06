@@ -44,6 +44,7 @@ barbariccia.bin,Barbariccia,female,true,6,barbariccia-p.bin,barbariccia,
 barret.bin,Barret,male,true,2,barret-p.bin,barret,
 barthello.bin,Barthello,male,true,5,barthello-p.bin,barthello,
 bartz.bin,Bartz,male,true,1,bartz-p.bin,bartz,
+bartz-dancer.bin,Bartz (Dancer),male,true,1,bartz-p.bin,bartz|dancer,
 bartz-knight.bin,Bartz (Knight),male,true,1,bartz-p.bin,bartz|knight,
 basch-beard.bin,Basch (with beard),male,true,17,basch-p.bin,basch,
 basch.bin,Basch,male,true,1,basch-p.bin,basch,
@@ -70,6 +71,7 @@ bomb.bin,Bomb,neutral,true,1,bomb-p.bin,,object
 bomberman.bin,Bomberman,neutral,true,15,bomberman-p.bin,,
 bombette.bin,Bombette,female,true,18,bombette-p.bin,bombette|bobomb,object
 borghen.bin,Borghen,male,true,9,borghen-p.bin,borghen,
+bow.bin,Lady Bow,female,true,18,bow-p.bin,bow|boo,object
 bowser.bin,Bowser,male,true,15,bowser-p.bin,bowser|turtle,animals
 bowserjr.bin,Bowser Jr,male,true,1,bowserjr-p.bin,bowser|turtle,animals|kids
 boy.bin,Boy,male,true,11,boy-p.bin,,kids|generic
@@ -172,6 +174,7 @@ elder.bin,Elder,male,true,2,elder-p.bin,,
 elena.bin,Elena,female,true,0,elena-p.bin,elena,
 ellone.bin,Ellone,female,true,0,ellone-p.bin,ellone,
 emperor.bin,Emperor,male,true,1,emperor-p.bin,mateus,
+ermac.bin,Ermac,male,true,3,ermac-p.bin,ermac,
 esperumaro.bin,Esper Umaro,male,true,13,esperumaro-p.bin,umaro,
 excitebiker.bin,Excitebiker,neutral,true,15,excitebiker-p.bin,,
 exdeath.bin,Exdeath,neutral,true,12,exdeath-p.bin,exdeath,
@@ -200,6 +203,7 @@ frogster.bin,Frogster,neutral,true,14,frogster-p.bin,frog,animals|generic
 fusoya.bin,FuSoYa,male,true,7,fusoya-p.bin,fusoya,
 futo.bin,Mononobe No Futo,female,true,8,futo-p.bin,futo,anime
 gabranth.bin,Gabranth,male,true,1,gabranth-p.bin,gabranth|judge,
+gadget.bin,Gadget Hackwrench,female,true,10,gadget-p.bin,gadget,animals
 gaffgarion.bin,Gaffgarion,male,true,1,gaffgarion-p.bin,gaffgarion,
 gaia-evo.bin,Gaia (E.V.O.),female,true,0,gaia-evo-p.bin,,
 galbadiansoldier.bin,Galbadian Soldier,male,true,14,galbadiansoldier-p.bin,soldier8,
@@ -241,7 +245,7 @@ homelander.bin,Homelander,male,true,5,homelander-p.bin,homelander,
 hoodedman.bin,Hooded Man Kain,male,true,1,hoodedman-p.bin,kain,
 hope.bin,Hope,male,true,1,hope-p.bin,hope,
 hornytoad.bin,Horny Toad,neutral,true,14,froggy-p.bin,frog,animals
-hotaru.bin,Hotaru,female,true,0,hotaru-p.bin,hotaru,
+hotaru.bin,Hotaru Futaba,female,true,0,hotaru-p.bin,hotaru,
 iffy.bin,Iffy,female,true,0,iffy-p.bin,iffy,anime
 ike.bin,Ike (Path of Radiance),male,true,4,ike-p.bin,ike,
 illya-prisma.bin,Illya (Prisma),female,true,6,illya-prisma-p.bin,illya,kids|anime
@@ -267,6 +271,7 @@ johnnycage.bin,Johnny Cage,male,true,5,johnnycage-p.bin,johnnycage,
 josef.bin,Josef,male,true,16,josef-p.bin,josef,
 jripper.bin,Jack the Ripper,male,true,14,jripper-p.bin,jripper,
 judge.bin,Judge,male,true,15,judge-p.bin,judge,generic
+kabal.bin,Kabal,male,true,14,kabal-p.bin,kabal,
 kaguya.bin,Kaguya Houraisan,female,true,6,kaguya-p.bin,kaguya,anime
 kain.bin,Kain,male,true,5,kain-p.bin,kain|dragoon,
 kakashi.bin,Kakashi,male,true,3,kakashi-p.bin,kakashi,anime
@@ -305,6 +310,7 @@ lenna-dragoon.bin,Lenna (Dragoon),female,true,0,lenna-dragoon-p.bin,lenna|dragoo
 lenna-knight.bin,Lenna (Knight),female,true,0,lenna-knight-p.bin,lenna|knight,
 lenna-mime.bin,Lenna (Mime),female,true,0,lenna-mime-p.bin,lenna|mime,
 lenna-monk.bin,Lenna (Monk),female,true,0,lenna-monk-p.bin,lenna|monk,
+lenna-ninja.bin,Lenna (Ninja),female,true,0,lenna-ninja-p.bin,lenna|ninja,
 lenna-ranger.bin,Lenna (Ranger),female,true,0,lenna-ranger-p.bin,lenna|ranger,
 lenna-samurai.bin,Lenna (Samurai),female,true,0,lenna-samurai-p.bin,lenna|samurai,
 lenna-summoner.bin,Lenna (Summoner),female,true,0,lenna-summoner-p.bin,lenna|summoner,
@@ -351,14 +357,16 @@ marcus.bin,Marcus,male,true,1,marcus-p.bin,marcus,
 maria.bin,Maria,female,true,0,maria-p.bin,maria2,
 marilith.bin,Marilith,neutral,true,6,marilith-p.bin,marilith,object
 mario.bin,Mario,male,true,2,mario-p.bin,mario,
-marisa.bin,Marisa,female,true,0,marisa-p.bin,marisa,anime
+marisa.bin,Marisa Kirisame,female,true,0,marisa-p.bin,marisa,anime
 marle.bin,Marle,female,true,0,marle-p.bin,marle,
 marth.bin,Marth,male,true,4,marth-p.bin,marth,
+martlet.bin,Martlet,female,true,15,martlet-p.bin,martlet,animals
 master-ff1.bin,Master,neutral,true,5,master-ff1-p.bin,master|monk,generic
 mastersword.bin,Master Sword,neutral,true,18,mastersword-p.bin,sword,object
 matoya.bin,Matoya,female,true,0,matoya-p.bin,matoya,
 maxim.bin,Maxim,male,true,1,maxim-p.bin,maxim,
 megaman.bin,MegaMan,male,true,1,megaman-p.bin,megaman,
+megumin.bin,Megumin,female,true,0,megumin-p.bin,megumin,anime
 meiling.bin,Hong Meiling,female,true,6,meiling-p.bin,meiling,anime
 merchant-amano.bin,Merchant (Amano),male,true,12,merchant-amano-p.bin,,generic
 metalsonic.bin,Metal Sonic,neutral,true,14,metalsonic-p.bin,metalsonic,object
@@ -383,15 +391,18 @@ mysticknight.bin,Mystic Knight,male,true,12,mysticknight-p.bin,,generic
 nabaat.bin,Jihl Nabaat,female,true,0,nabaat-p.bin,nabaat,
 nakoruru.bin,Nakoruru,female,true,0,nakoruru-p.bin,nakoruru,anime
 narsheguard.bin,Narshe Guard,male,true,1,narsheguard-p.bin,,generic
+nazrin.bin,Nazrin,female,true,8,nazrin-p.bin,nazrin,anime
 neclord.bin,Neclord,male,true,4,neclord-p.bin,neclord,
 nepgear.bin,Nepgear,female,true,0,nepgear-p.bin,nepgear,anime
 neptune-adult.bin,Neptune (Adult),female,true,0,neptune-adult-p.bin,neptune,anime
 neptune.bin,Neptune,female,true,0,neptune-p.bin,neptune,anime
 ness.bin,Ness,male,true,1,ness-p.bin,ness,kids
+nicole.bin,Nicole the Holo-Lynx,female,true,10,nicole-p.bin,nicole,animals
 ninja-female.bin,Ninja (Female),female,true,0,ninja-female-p.bin,ninja,generic
 ninja.bin,Ninja,male,true,3,ninja-p.bin,ninja,generic
 nitori.bin,Nitori Kawashiro,female,true,8,nitori-p.bin,nitori,anime
 noctis.bin,Noctis,male,true,1,noctis-p.bin,noctis,
+noelle.bin,Noelle,female,true,6,noelle-p.bin,noelle,animals
 noire.bin,Noire,female,true,0,noire-p.bin,noire,anime
 nora.bin,Nora,female,true,0,nora-p.bin,nora,
 nun.bin,Nun,female,true,6,nun-p.bin,nun,generic
@@ -403,6 +414,7 @@ olimar.bin,Olimar,male,true,15,olimar-p.bin,olimar,
 omega.bin,Omega,neutral,true,18,omega-p.bin,,object
 onionknight.bin,Onion Knight,male,true,16,onionknight-p.bin,onion,kids
 opaopa.bin,Opa-Opa,neutral,true,18,opaopa-p.bin,opaopa,object
+optimusprime.bin,Optimus Prime,neutral,true,14,optimusprime-p.bin,optimusprime,object
 orlandu.bin,Orlandu,male,true,2,orlandu-p.bin,orlandu,
 orochimaru.bin,Orochimaru,male,true,9,orochimaru-p.bin,orochimaru,anime
 ovelia.bin,Ovelia,female,true,6,ovelia-p.bin,ovelia,
@@ -478,9 +490,12 @@ rinoa.bin,Rinoa,female,true,0,rinoa-p.bin,rinoa,
 robo.bin,Robo,male,true,1,robo-p.bin,robo,object
 rom.bin,Rom,female,true,8,rom-p.bin,rom,kids|anime
 rosa.bin,Rosa,female,true,6,rosa-p.bin,rosa,
+rouge.bin,Rouge the Bat,female,true,10,rouge-p.bin,rouge,animals
+rua.bin,Rua (Leo),male,true,11,rua-p.bin,rua|twin5ds,kids|anime
 rubicante.bin,Rubicante,male,true,3,rubicante-p.bin,rubicante,
 rude.bin,Rude,male,true,3,rude-p.bin,rude,
 rufus.bin,Rufus Shinra,male,true,4,rufus-p.bin,rufus,
+ruka.bin,Ruka (Luna),female,true,8,ruka-p.bin,ruka|twin5ds,kids|anime
 rumia.bin,Rumia,female,true,0,rumia-p.bin,rumia,anime
 rune.bin,Rune,male,true,4,rune-p.bin,rune|lutz,
 rydia-child.bin,Rydia (Child),female,true,0,rydia-child-p.bin,rydia,kids
@@ -493,6 +508,7 @@ sabin-t.bin,Sabin (T-Edition ver.),male,true,5,sabin-t-p.bin,sabin,
 sabin-vargas.bin,Sabin (Vargas costume),male,true,5,,sabin|vargas,
 sabin-wakka.bin,Sabin (Wakka costume),male,true,5,sabin-wakka-p.bin,sabin|wakka,
 sakuya.bin,Sakuya,female,true,6,sakuya-p.bin,sakuya,anime
+sally.bin,Sally Acorn,female,true,10,sally-p.bin,sally,animals
 samehada.bin,Samehada,neutral,true,18,samehada-p.bin,sword,object|anime
 samurai.bin,Samurai,male,true,2,samurai-p.bin,samurai,generic
 samus-zero.bin,Samus (Zero Suit),female,true,0,samus-zero-p.bin,samus,
@@ -512,12 +528,14 @@ scorpion.bin,Scorpion,male,true,18,scorpion-p.bin,scorpion,
 scott.bin,Scott,male,true,4,scott-p.bin,scott,
 seeq.bin,Seeq,male,true,1,seeq-p.bin,,
 seifer.bin,Seifer,male,true,5,seifer-p.bin,seifer,
+sektor.bin,Sektor,neutral,true,1,sektor-p.bin,sektor,
 selphie.bin,Selphie,female,true,0,selphie-p.bin,selphie,
 selphie-uniform.bin,Selphie (SeeD uniform),female,true,0,selphie-p.bin,selphie|seed,
 sephiroth.bin,Sephiroth,male,true,1,sephiroth-p.bin,sephiroth,
 serafie.bin,Serafie,female,true,8,serafie-p.bin,serafie,
 serah.bin,Serah,female,true,0,serah-p.bin,serah,
 seymour.bin,Seymour,male,true,9,seymour-p.bin,seymour,
+shadowhedgehog.bin,Shadow the Hedehog,male,true,10,shadowhedgehog-p.bin,shadowhedgehog,animals
 shadowsmith.bin,Shadow Smith,male,true,9,shadowsmith-p.bin,,
 shangtsung.bin,Shang Tsung,male,true,7,shangtsung-p.bin,shangtsung,
 shantotto.bin,Shantotto,female,true,8,shantotto-p.bin,shantotto,
@@ -562,6 +580,7 @@ subzero.bin,Sub Zero,male,true,3,subzero-p.bin,subzero,
 suika.bin,Suika Ibuki,female,true,8,suika-p.bin,suika,anime
 superbuu.bin,Super Buu,male,true,15,superbuu-p.bin,majinbuu,anime
 suwako.bin,Suwako Moriya,female,true,8,suwako-p.bin,suwako,anime
+sybil.bin,Sybil,female,true,10,sybil-p.bin,sybil,animals
 t260g.bin,T260G,neutral,true,18,t260g-p.bin,t260g,
 tails.bin,Tails,male,true,10,tails-p.bin,tails,animals
 talim.bin,Talim,female,true,0,talim-p.bin,talim,
@@ -574,6 +593,7 @@ terra-dress.bin,Terra (dressy),female,true,0,,terra,
 terra-rydia.bin,Terra (Rydia costume),female,true,0,terra-rydia-p.bin,terra|rydia,
 terra-sorceress.bin,Terra (Sorceress),female,true,0,,terra,
 teta.bin,Teta,female,true,0,teta-p.bin,teta,
+tewi.bin,Tewi Inaba,female,true,8,tewi-p.bin,tewi,anime
 thief-ff1.bin,Thief (FF1),neutral,true,1,thief-ff1-p.bin,thief,generic
 thieffft.bin,Thief (FFT),male,true,1,thieffft-p.bin,thiefFFT|thief,generic
 tiamat.bin,Tiamat,neutral,true,18,tiamat-p.bin,tiamat,animals
@@ -611,6 +631,7 @@ vaan.bin,Vaan,male,true,1,vaan-p.bin,vaan,
 vader.bin,Vader,male,true,1,vader-p.bin,vader,
 valkyrie.bin,Valkyrie,female,true,6,valkyrie-p.bin,,
 van.bin,Young Van,male,true,11,van-p.bin,van,kids
+vanilla.bin,Vanilla the Rabbit,female,true,10,vanilla-p.bin,vanilla|rabbit,animals
 vanille.bin,Vanille,female,true,0,vanille-p.bin,vanille,
 vargas.bin,Vargas,male,true,5,vargas-p.bin,vargas,
 vayne.bin,Vayne,male,true,9,vayne-p.bin,vayne,

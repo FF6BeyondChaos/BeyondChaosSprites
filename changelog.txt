@@ -1,3 +1,88 @@
+* -> Version 3.8:
+- New Sprites (21):
+* Bartz (Dancer) by HoxNorf
+* Ermac by JamesWhite89
+* Gadget Hackwrench by Rorahusky
+* Kabal by JamesWhite89
+* Lady Bow by HoxNorf
+* Lenna (Ninja) by HoxNorf
+* Martlet by Rorahusky
+* Megumin by HoxNorf
+* Nazrin by HoxNorf
+* Nicole the Holo-Lynx by Rorahusky
+* Noelle by Rorahusky
+* Optimus Prime by JamesWhite89
+* Rouge the Bat by Rorahusky
+* Rua (Leo) by HoxNorf
+* Ruka (Luna) by HoxNorf
+* Sally Acorn by Rorahusky
+* Sektor by JamesWhite89
+* Shadow the Hedgehog by Rorahusky
+* Sybil by Rorahusky
+* Tewi Inaba by HoxNorf
+* Vanilla the Rabbit by Rorahusky
+
+- New Portraits (20):
+* Ermac by JamesWhite89
+* Gadget Hackwrench by Rorahusky
+* Kabal by JamesWhite89
+* Lady Bow by HoxNorf
+* Lenna (Ninja) by JamesWhite89
+* Martlet by Rorahusky
+* Megumin by HoxNorf
+* Nazrin by HoxNorf
+* Nicole the Holo-Lynx by Rorahusky
+* Noelle by Rorahusky
+* Optimus Prime by JamesWhite89
+* Rouge the Bat by Rorahusky
+* Rua (Leo) by HoxNorf
+* Ruka (Luna) by HoxNorf
+* Sally Acorn by Rorahusky
+* Sektor by JamesWhite89
+* Shadow the Hedgehog by Rorahusky
+* Sybil by Rorahusky
+* Tewi Inaba by HoxNorf
+* Vanilla the Rabbit by Rorahusky
+
+- New Lines (21):
+bartz-dancer.bin,Bartz (Dancer),male,true,1,bartz-p.bin,bartz|dancer,
+bow.bin,Lady Bow,female,true,18,bow-p.bin,bow|boo,object
+ermac.bin,Ermac,male,true,3,ermac-p.bin,ermac,
+gadget.bin,Gadget Hackwrench,female,true,10,gadget-p.bin,gadget,animals
+kabal.bin,Kabal,male,true,14,kabal-p.bin,kabal,
+lenna-ninja.bin,Lenna (Ninja),female,true,0,lenna-ninja-p.bin,lenna|ninja,
+martlet.bin,Martlet,female,true,15,martlet-p.bin,martlet,animals
+megumin.bin,Megumin,female,true,0,megumin-p.bin,megumin,anime
+nazrin.bin,Nazrin,female,true,8,nazrin-p.bin,nazrin,anime
+nicole.bin,Nicole the Holo-Lynx,female,true,10,nicole-p.bin,nicole,animals
+noelle.bin,Noelle,female,true,6,noelle-p.bin,noelle,animals
+optimusprime.bin,Optimus Prime,neutral,true,14,optimusprime-p.bin,optimusprime,object
+rouge.bin,Rouge the Bat,female,true,10,rouge-p.bin,rouge,animals
+rua.bin,Rua (Leo),male,true,11,rua-p.bin,rua|twin5ds,kids|anime
+ruka.bin,Ruka (Luna),female,true,8,ruka-p.bin,ruka|twin5ds,kids|anime
+sally.bin,Sally Acorn,female,true,10,sally-p.bin,sally,animals
+sektor.bin,Sektor,neutral,true,1,sektor-p.bin,sektor,
+shadowhedgehog.bin,Shadow the Hedehog,male,true,10,shadowhedgehog-p.bin,shadowhedgehog,animals
+sybil.bin,Sybil,female,true,10,sybil-p.bin,sybil,animals
+tewi.bin,Tewi Inaba,female,true,8,tewi-p.bin,tewi,anime
+vanilla.bin,Vanilla the Rabbit,female,true,10,vanilla-p.bin,vanilla|rabbit,animals
+
+- Updated Sprites (7):
+* Hotaru Futaba by HoxNorf
+* Iffy by HoxNorf
+* Marisa Kirisame by HoxNorf
+* Sindel by JamesWhite89
+* Sonic by Rorahusky
+* Tao (Shining Force) by HoxNorf
+* Toriel by Rorahusky
+
+- Updated Portraits (1):
+* Toriel by Rorahusky
+
+- Updated Lines (2):
+hotaru.bin,Hotaru Futaba,female,true,0,hotaru-p.bin,hotaru,
+marisa.bin,Marisa Kirisame,female,true,0,marisa-p.bin,marisa,anime
+
 * -> Version 3.7.2:
 - New Sprites (7):
 * Bear by CDude
